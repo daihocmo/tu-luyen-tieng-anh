@@ -1,7 +1,7 @@
-Hướng dẫn học tập thông qua giáo trình Streamline
+Hướng dẫn học Tiếng Anh từ con số 0.
  
 
-### Mo dau
+### Mở đầu
 
 Tải giáo trình Streamline English tại:
 
