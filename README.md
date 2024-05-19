@@ -1,6 +1,8 @@
 Hướng dẫn học Tiếng Anh từ con số 0.
  
 
+Giáo trình được truyền cảm hứng rất lớn bởi lộ trình học Tiếng Nhật tương tự của CLAWDIRE trên Voz. Bạn có thể đọc tại đây: 
+
 ### Mở đầu
 
 Tải giáo trình Streamline English tại:
