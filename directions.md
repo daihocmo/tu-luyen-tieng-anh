@@ -1,7 +1,8 @@
-Bắt đầu học Giai đoạn 1 - cuốn Departures (Streamline English)
+Bắt đầu học Giai đoạn 4 - cuốn Directions (Streamline English)
 
 ### Lưu ý
 
+Giờ là lúc hết mình! Sắp hoàn thành chương trình rồi!
 
 ### Lộ trình học
 - [Ngày 120](#ngày-120)
