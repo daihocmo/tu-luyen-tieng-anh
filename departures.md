@@ -185,10 +185,12 @@ Trong 20 ngày đầu sẽ chưa yêu cầu đọc, khoảng thời gian này vi
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/Y7DIw84LOEU)
 
 ### Ngày 20
+Time to learn how to read in English yourself. (When reading on the web browser, you should probably have a pop-up dictionary extension)
+
 - Từ vựng: Đọc qua từ vựng Unit 39, 40 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=39) và học từ vựng hàng ngày trên Anki
 - Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=20) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/YvTnLIyJxDI)
-- Đọc hiểu: 
+- Đọc hiểu: []()
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/B3rWU6_FfyM)
 
 ### Ngày 21
