@@ -52,35 +52,35 @@ Trong 20 ngày đầu sẽ chưa yêu cầu đọc, khoảng thời gian này vi
 
 ### Ngày 1
 - Từ vựng: Đọc qua từ vựng Unit 1, 2 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=1) và học từ vựng hàng ngày trên Anki.
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=1) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/SyS0um2B42I)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/m1-Bx3h4cio)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/m1-Bx3h4cio)
 
 ### Ngày 2
 - Từ vựng: Đọc qua từ vựng Unit 3, 4 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=3) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=2) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/SyS0um2B42I)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation 2](https://www.youtube.com/embed/4N9Y47aVTHM)
 
 ### Ngày 3
 - Từ vựng: Đọc qua từ vựng Unit 5, 6 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=5) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=3) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/SyS0um2B42I) và chuyển qua bài 6 [tại đây](https://www.youtube.com/embed/CB3m8fnzYpo)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation 3](https://www.youtube.com/embed/5xMMgxgAgLk)
 
 ### Ngày 4
 - Từ vựng: Đọc qua từ vựng Unit 7, 8 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=7) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=4) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/CB3m8fnzYpo)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation 4](https://www.youtube.com/embed/oBA6mrpJFBM)
 
 ### Ngày 5
 - Từ vựng: Đọc qua từ vựng Unit 9, 10 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=9) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=5) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/CB3m8fnzYpo)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation 5](https://www.youtube.com/embed/JYQir4QzIjA)
@@ -88,245 +88,245 @@ Trong 20 ngày đầu sẽ chưa yêu cầu đọc, khoảng thời gian này vi
 
 ### Ngày 6
 - Từ vựng: Đọc qua từ vựng Unit 11, 12 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=11) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=6) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/wLxbRrEVu7E)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation 6](https://www.youtube.com/embed/L5Eoq057OAM)
 
 ### Ngày 7
 - Từ vựng: Đọc qua từ vựng Unit 13, 14 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=13) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=7) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/wLxbRrEVu7E)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation 7](https://www.youtube.com/embed/X9C_yKy_qro)
 
 ### Ngày 8
 - Từ vựng: Đọc qua từ vựng Unit 15, 16 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=15) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=8) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/wLxbRrEVu7E) và chuyển qua Unit 16 [tại đây](https://www.youtube.com/embed/KBkgl_aeLcA)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation 8](https://www.youtube.com/embed/fmJDzyTQhbA)
 
 ### Ngày 9
 - Từ vựng: Đọc qua từ vựng Unit 17, 18 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=17) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=9) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/KBkgl_aeLcA)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation 9](https://www.youtube.com/embed/h8XbayIhHjU)
 
 ### Ngày 10
 - Từ vựng: Đọc qua từ vựng Unit 19, 20 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=19) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=10) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/KBkgl_aeLcA)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 10](https://www.youtube.com/embed/wQLt1BuXk08)
+- Nghe hiểu: [English Conversation0](https://www.youtube.com/embed/wQLt1BuXk08)
 
 ### Ngày 11
 - Từ vựng: Đọc qua từ vựng Unit 21, 22 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=21) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=11) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/HdFHzZtjeNs)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 11](https://www.youtube.com/embed/qdcCe3NYQB8)
+- Nghe hiểu: [English Conversation1](https://www.youtube.com/embed/qdcCe3NYQB8)
 
 ### Ngày 12
 - Từ vựng: Đọc qua từ vựng Unit 23, 24 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=23) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=12) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/HdFHzZtjeNs)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 12](https://www.youtube.com/embed/DQBtlRv4SeA)
+- Nghe hiểu: [English Conversation2](https://www.youtube.com/embed/DQBtlRv4SeA)
 
 ### Ngày 13
 - Từ vựng: Đọc qua từ vựng Unit 25, 26 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=25) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=13) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/HdFHzZtjeNs) và chuyển qua Unit 26 [tại đây](https://www.youtube.com/embed/akf6y0UQUS8)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 13](https://www.youtube.com/embed/1H9_coD7WhQ)
+- Nghe hiểu: [English Conversation3](https://www.youtube.com/embed/1H9_coD7WhQ)
 
 ### Ngày 14
 - Từ vựng: Đọc qua từ vựng Unit 27, 28 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=27) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=14) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/akf6y0UQUS8)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 14](https://www.youtube.com/embed/3PtdNEJwYFk)
+- Nghe hiểu: [English Conversation4](https://www.youtube.com/embed/3PtdNEJwYFk)
 
 ### Ngày 15
 - Từ vựng: Đọc qua từ vựng Unit 29, 30 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=29) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [http://lopngoaingu.com/grammar-in-use/index.php?page=15](http://lopngoaingu.com/grammar-in-use/index.php?page=15) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/akf6y0UQUS8)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 15](https://www.youtube.com/embed/7cGTTWJgIVA)
+- Nghe hiểu: [English Conversation5](https://www.youtube.com/embed/7cGTTWJgIVA)
 
 ### Ngày 16
 - Từ vựng: Đọc qua từ vựng Unit 31, 32 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=31) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=16) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/dM-LiQjtP0Y)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 16](https://www.youtube.com/embed/qmza9S7A_2Q)
+- Nghe hiểu: [English Conversation6](https://www.youtube.com/embed/qmza9S7A_2Q)
 
 ### Ngày 17
 - Từ vựng: Đọc qua từ vựng Unit 33, 34 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=33) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=17) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/dM-LiQjtP0Y)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 17](https://www.youtube.com/embed/t9GuUGY-pNw)
+- Nghe hiểu: [English Conversation7](https://www.youtube.com/embed/t9GuUGY-pNw)
 
 ### Ngày 18
 - Từ vựng: Đọc qua từ vựng Unit 35, 36 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=35) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=18) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/dM-LiQjtP0Y) và chuyển qua Unit 36 [tại đây](https://www.youtube.com/embed/YvTnLIyJxDI)
 - Đọc hiểu:  
-- Nghe hiểu: [English Conversation 18](https://www.youtube.com/embed/De0OCxtCy_M)
+- Nghe hiểu: [English Conversation8](https://www.youtube.com/embed/De0OCxtCy_M)
 
 ### Ngày 19
 - Từ vựng: Đọc qua từ vựng Unit 37, 38 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=37) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=19) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/YvTnLIyJxDI)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/Y7DIw84LOEU)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/Y7DIw84LOEU)
 
 ### Ngày 20
 - Từ vựng: Đọc qua từ vựng Unit 39, 40 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=39) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=20) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/YvTnLIyJxDI)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/B3rWU6_FfyM)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/B3rWU6_FfyM)
 
 ### Ngày 21
 - Từ vựng: Đọc qua từ vựng Unit 41, 42 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=41) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=21) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/6aAJGxVRFq4)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/NuUPJj_Z_q8)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/NuUPJj_Z_q8)
 
 ### Ngày 22
 - Từ vựng: Đọc qua từ vựng Unit 43, 44 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=43) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=22) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/6aAJGxVRFq4)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/gOPmS9IDKMo)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/gOPmS9IDKMo)
 
 ### Ngày 23
 - Từ vựng: Đọc qua từ vựng Unit 45, 46 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=45) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=23) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/6aAJGxVRFq4) và chuyển qua Unit 46 [tại đây](https://www.youtube.com/embed/V1uvVki2vo4)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/HIWvKfXQseU)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/HIWvKfXQseU)
 
 ### Ngày 24
 - Từ vựng: Đọc qua từ vựng Unit 47, 48 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=47) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=24) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/V1uvVki2vo4)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/Z-wRuUeqPUM)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/Z-wRuUeqPUM)
 
 ### Ngày 25
 - Từ vựng: Đọc qua từ vựng Unit 49, 50 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=49) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=25) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/V1uvVki2vo4)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/a3vYNDhmvyg)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/a3vYNDhmvyg)
 
 ### Ngày 26
 - Từ vựng: Đọc qua từ vựng Unit 51, 52 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=51) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=26) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/mhXVY6nmIIk)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/HT609Jtk7kE)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/HT609Jtk7kE)
 
 ### Ngày 27
 - Từ vựng: Đọc qua từ vựng Unit 53, 54 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=53) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=27) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/mhXVY6nmIIk)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/Wl6GdXObW50)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/Wl6GdXObW50)
 
 ### Ngày 28
 - Từ vựng: Đọc qua từ vựng Unit 55, 56 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=55) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=28) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/mhXVY6nmIIk) và chuyển qua Unit 56 [tại đây](https://www.youtube.com/embed/NgesYBRmobs)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/qph458LxR9I)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/qph458LxR9I)
 
 ### Ngày 29
 - Từ vựng: Đọc qua từ vựng Unit 57, 58 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=57) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=29) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/NgesYBRmobs)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/nBuGascikBI)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/nBuGascikBI)
 
 ### Ngày 30
 - Từ vựng: Đọc qua từ vựng Unit 59, 60 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=59) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=30) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/NgesYBRmobs)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/WEoxeIxcQw0)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/WEoxeIxcQw0)
 
 ### Ngày 31
 - Từ vựng: Đọc qua từ vựng Unit 61, 62 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=61) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=31) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/r_oD_5M3fN8)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/7827tPM4tSE)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/7827tPM4tSE)
 
 ### Ngày 32
 - Từ vựng: Đọc qua từ vựng Unit 63, 64 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=63) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=32) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/r_oD_5M3fN8)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/950u2yxDyxM)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/950u2yxDyxM)
 
 ### Ngày 33
 - Từ vựng: Đọc qua từ vựng Unit 65, 66 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=65) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=33) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/r_oD_5M3fN8) và Unit 66 [tại đây](https://www.youtube.com/embed/WviXqnL4oCE)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/JA4G9eTjnlo)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/JA4G9eTjnlo)
 
 ### Ngày 34
 - Từ vựng: Đọc qua từ vựng Unit 67, 68 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=67) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=34) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/WviXqnL4oCE)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/OhzNz7vh6YM)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/OhzNz7vh6YM)
 
 ### Ngày 35
 - Từ vựng: Đọc qua từ vựng Unit 69, 70 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=69) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=35) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/WviXqnL4oCE)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/tSseSypkT1E)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/tSseSypkT1E)
 
 ### Ngày 36
 - Từ vựng: Đọc qua từ vựng Unit 71, 72 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=71) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=36) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/zFcYMtvzuGk)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/vnkeWsnBw_w)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/vnkeWsnBw_w)
 
 ### Ngày 37
 - Từ vựng: Đọc qua từ vựng Unit 73, 74 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=73) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=37) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/zFcYMtvzuGk)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/psmuEyZGHVs)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/psmuEyZGHVs)
 
 ### Ngày 38
 - Từ vựng: Đọc qua từ vựng Unit 75, 76 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=75) và học từ vựng hàng ngày trên Anki.
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=38) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/zFcYMtvzuGk) và Unit 76 [tại đây](https://www.youtube.com/embed/-14xItDHQmY)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/vbSwmvyEQCI)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/vbSwmvyEQCI)
 
 ### Ngày 39
 - Từ vựng: Đọc qua từ vựng Unit 77, 78 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=77) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=39) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/-14xItDHQmY)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/toCn9-9hXoY)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/toCn9-9hXoY)
 
 ### Ngày 40
 - Từ vựng: Đọc qua từ vựng Unit 79, 80 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=79) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài []() trong English Grammar In Use.
+- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=40) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/-14xItDHQmY)
 - Đọc hiểu: 
-- Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/fLEmRt8yp4Q)
+- Nghe hiểu: [English Conversation](https://www.youtube.com/embed/fLEmRt8yp4Q)
