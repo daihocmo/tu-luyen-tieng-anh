@@ -1,330 +1,300 @@
 Bắt đầu học Giai đoạn 1 - cuốn Departures (Streamline English)
 
 ### Lưu ý
-- Ở phần "Hội thoại", mình sẽ để đường dẫn đến các bài nghe trên Youtube, vậy nên bạn hoàn toàn có thể nghe trực tiếp nếu bạn đã tải cả sách và tệp âm thanh ở bài gốc.
-- Ở phần từ vựng, đường dẫn sẽ đến bài đầu tiên cần học, ví dụ như ngày 1 cần học Unit 1 và Unit 2 thì đường dẫn sẽ đến bài tại Unit 1, và bạn cần tự chuyển bài sang Unit 2 sau khi học xong Unit 1.
-- Các đường dẫn sẽ được điền ngay tại đây cho bạn, nếu bạn tự tải các giáo trình về thì bạn chỉ cần tự tìm tên bài tương ứng.
 
 
 ### Lộ trình học
-- [Ngày 1](#ngày-1)
-- [Ngày 2](#ngày-2)
-- [Ngày 3](#ngày-3)
-- [Ngày 4](#ngày-4)
-- [Ngày 5](#ngày-5)
-- [Ngày 6](#ngày-6)
-- [Ngày 7](#ngày-7)
-- [Ngày 8](#ngày-8)
-- [Ngày 9](#ngày-9)
-- [Ngày 10](#ngày-10)
-- [Ngày 11](#ngày-11)
-- [Ngày 12](#ngày-12)
-- [Ngày 13](#ngày-13)
-- [Ngày 14](#ngày-14)
-- [Ngày 15](#ngày-15)
-- [Ngày 16](#ngày-16)
-- [Ngày 17](#ngày-17)
-- [Ngày 18](#ngày-18)
-- [Ngày 19](#ngày-19)
-- [Ngày 20](#ngày-20)
-- [Ngày 21](#ngày-21)
-- [Ngày 22](#ngày-22)
-- [Ngày 23](#ngày-23)
-- [Ngày 24](#ngày-24)
-- [Ngày 25](#ngày-25)
-- [Ngày 26](#ngày-26)
-- [Ngày 27](#ngày-27)
-- [Ngày 28](#ngày-28)
-- [Ngày 29](#ngày-29)
-- [Ngày 30](#ngày-30)
-- [Ngày 31](#ngày-31)
-- [Ngày 32](#ngày-32)
-- [Ngày 33](#ngày-33)
-- [Ngày 34](#ngày-34)
-- [Ngày 35](#ngày-35)
-- [Ngày 36](#ngày-36)
-- [Ngày 37](#ngày-37)
-- [Ngày 38](#ngày-38)
-- [Ngày 39](#ngày-39)
-- [Ngày 40](#ngày-40)
-
-### Ngày 1
-- Từ vựng: Đọc qua từ vựng Unit 1, 2 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=1) và học từ vựng hàng ngày trên Anki.
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+- [Ngày 120](#ngày-120)
+- [Ngày 121](#ngày-121)
+- [Ngày 122](#ngày-122)
+- [Ngày 123](#ngày-123)
+- [Ngày 124](#ngày-124)
+- [Ngày 125](#ngày-125)
+- [Ngày 126](#ngày-126)
+- [Ngày 127](#ngày-127)
+- [Ngày 128](#ngày-128)
+- [Ngày 129](#ngày-129)
+- [Ngày 130](#ngày-130)
+- [Ngày 131](#ngày-131)
+- [Ngày 132](#ngày-132)
+- [Ngày 133](#ngày-133)
+- [Ngày 134](#ngày-134)
+- [Ngày 135](#ngày-135)
+- [Ngày 136](#ngày-136)
+- [Ngày 137](#ngày-137)
+- [Ngày 138](#ngày-138)
+- [Ngày 139](#ngày-139)
+- [Ngày 140](#ngày-140)
+- [Ngày 141](#ngày-141)
+- [Ngày 142](#ngày-142)
+- [Ngày 143](#ngày-143)
+- [Ngày 144](#ngày-144)
+- [Ngày 145](#ngày-145)
+- [Ngày 146](#ngày-146)
+- [Ngày 147](#ngày-147)
+- [Ngày 148](#ngày-148)
+- [Ngày 149](#ngày-149)
+- [Ngày 150](#ngày-150)
+- [Ngày 151](#ngày-151)
+- [Ngày 152](#ngày-152)
+- [Ngày 153](#ngày-153)
+- [Ngày 154](#ngày-154)
+- [Ngày 155](#ngày-155)
+- [Ngày 156](#ngày-156)
+- [Ngày 157](#ngày-157)
+- [Ngày 158](#ngày-158)
+- [Ngày 159](#ngày-159)
+- [Ngày 160](#ngày-160)
+ 
+### Ngày 121
+- Từ vựng: Đọc qua từ vựng Unit 1, 2 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=121) và học từ vựng hàng ngày trên Anki.
+- Ngữ pháp: Học bài [](http://lopngoaingu.com/grammar-in-use/index.php?page=121) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 2
-- Từ vựng: Đọc qua từ vựng Unit 3, 4 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=3) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 122
+- Từ vựng: Đọc qua từ vựng Unit 3, 4 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=122) và học từ vựng hàng ngày trên Anki.
+- Ngữ pháp: Học bài [](http://lopngoaingu.com/grammar-in-use/index.php?page=122) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 3
-- Từ vựng: Đọc qua từ vựng Unit 5, 6 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=5) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 123
+- Từ vựng: Đọc qua từ vựng Unit 5, 6 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=123) và học từ vựng hàng ngày trên Anki.
+- Ngữ pháp: Học bài [](http://lopngoaingu.com/grammar-in-use/index.php?page=123) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 4
-- Từ vựng: Đọc qua từ vựng Unit 7, 8 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=7) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 124
+- Từ vựng: Đọc qua từ vựng Unit 7, 8 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=124) và học từ vựng hàng ngày trên Anki.
+- Ngữ pháp: Học bài [](http://lopngoaingu.com/grammar-in-use/index.php?page=124) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 5
-- Từ vựng: Đọc qua từ vựng Unit 9, 10 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=9) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 125
+- Từ vựng: Đọc qua từ vựng Unit 9, 10 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=125) và học từ vựng hàng ngày trên Anki.
+- Ngữ pháp: Học bài [](http://lopngoaingu.com/grammar-in-use/index.php?page=125) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-
-### Ngày 6
-- Từ vựng: Đọc qua từ vựng Unit 11, 12 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=11) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 126
+- Từ vựng: Đọc qua từ vựng Unit 11, 12 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=126) và học từ vựng hàng ngày trên Anki.
+- Ngữ pháp: Học bài [](http://lopngoaingu.com/grammar-in-use/index.php?page=126) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 7
-- Từ vựng: Đọc qua từ vựng Unit 13, 14 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=13) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 127
+- Từ vựng: Đọc qua từ vựng Unit 13, 14 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=127) và học từ vựng hàng ngày trên Anki.
+- Ngữ pháp: Học bài [](http://lopngoaingu.com/grammar-in-use/index.php?page=127) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 8
-- Từ vựng: Đọc qua từ vựng Unit 15, 16 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=15) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 128
+- Từ vựng: Đọc qua từ vựng Unit 15, 16 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=128) và học từ vựng hàng ngày trên Anki.
+- Ngữ pháp: Học bài [](http://lopngoaingu.com/grammar-in-use/index.php?page=128) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 9
-- Từ vựng: Đọc qua từ vựng Unit 17, 18 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=17) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 129
+- Từ vựng: Đọc qua từ vựng Unit 17, 18 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=129) và học từ vựng hàng ngày trên Anki.
+- Ngữ pháp: Học bài [](http://lopngoaingu.com/grammar-in-use/index.php?page=129) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 10
-- Từ vựng: Đọc qua từ vựng Unit 19, 20 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=19) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 130
+- Từ vựng: Đọc qua từ vựng Unit 19, 20 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=130) và học từ vựng hàng ngày trên Anki.
+- Ngữ pháp: Học bài [](http://lopngoaingu.com/grammar-in-use/index.php?page=130) trong English Grammar In Use.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 11
-- Từ vựng: Đọc qua từ vựng Unit 21, 22 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=21) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
-- Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
 
-### Ngày 12
-- Từ vựng: Đọc qua từ vựng Unit 23, 24 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=23) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
-- Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
 
-### Ngày 13
-- Từ vựng: Đọc qua từ vựng Unit 25, 26 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=25) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 131
+- Từ vựng: Đọc qua từ vựng Unit 21, 22 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=131) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 14
-- Từ vựng: Đọc qua từ vựng Unit 27, 28 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=27) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 132
+- Từ vựng: Đọc qua từ vựng Unit 23, 24 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=132) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 15
-- Từ vựng: Đọc qua từ vựng Unit 29, 30 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=29) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 133
+- Từ vựng: Đọc qua từ vựng Unit 25, 26 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=133) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 16
-- Từ vựng: Đọc qua từ vựng Unit 31, 32 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=31) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 134
+- Từ vựng: Đọc qua từ vựng Unit 27, 28 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=134) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 17
-- Từ vựng: Đọc qua từ vựng Unit 33, 34 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=33) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 135
+- Từ vựng: Đọc qua từ vựng Unit 29, 30 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=135) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 18
-- Từ vựng: Đọc qua từ vựng Unit 35, 36 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=35) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 136
+- Từ vựng: Đọc qua từ vựng Unit 31, 32 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=136) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 19
-- Từ vựng: Đọc qua từ vựng Unit 37, 38 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=37) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 137
+- Từ vựng: Đọc qua từ vựng Unit 33, 34 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=137) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 20
-- Từ vựng: Đọc qua từ vựng Unit 39, 40 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=39) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 138
+- Từ vựng: Đọc qua từ vựng Unit 35, 36 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=138) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 21
-- Từ vựng: Đọc qua từ vựng Unit 41, 42 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=41) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 139
+- Từ vựng: Đọc qua từ vựng Unit 37, 38 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=139) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 22
-- Từ vựng: Đọc qua từ vựng Unit 43, 44 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=43) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 140
+- Từ vựng: Đọc qua từ vựng Unit 39, 40 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=140) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 23
-- Từ vựng: Đọc qua từ vựng Unit 45, 46 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=45) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 141
+- Từ vựng: Đọc qua từ vựng Unit 41, 42 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=141) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 24
-- Từ vựng: Đọc qua từ vựng Unit 47, 48 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=47) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 142
+- Từ vựng: Đọc qua từ vựng Unit 43, 44 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=142) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 25
-- Từ vựng: Đọc qua từ vựng Unit 49, 50 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=49) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 143
+- Từ vựng: Đọc qua từ vựng Unit 45, 46 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=143) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 26
-- Từ vựng: Đọc qua từ vựng Unit 51, 52 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=51) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 144
+- Từ vựng: Đọc qua từ vựng Unit 47, 48 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=144) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 27
-- Từ vựng: Đọc qua từ vựng Unit 53, 54 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=53) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 145
+- Từ vựng: Đọc qua từ vựng Unit 49, 50 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=145) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 28
-- Từ vựng: Đọc qua từ vựng Unit 55, 56 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=55) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 146
+- Từ vựng: Đọc qua từ vựng Unit 51, 52 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=146) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 29
-- Từ vựng: Đọc qua từ vựng Unit 57, 58 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=57) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 147
+- Từ vựng: Đọc qua từ vựng Unit 53, 54 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=147) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 30
-- Từ vựng: Đọc qua từ vựng Unit 59, 60 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=59) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 148
+- Từ vựng: Đọc qua từ vựng Unit 55, 56 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=148) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 31
-- Từ vựng: Đọc qua từ vựng Unit 61, 62 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=61) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 149
+- Từ vựng: Đọc qua từ vựng Unit 57, 58 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=149) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 32
-- Từ vựng: Đọc qua từ vựng Unit 63, 64 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=63) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 150
+- Từ vựng: Đọc qua từ vựng Unit 59, 60 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=150) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 33
-- Từ vựng: Đọc qua từ vựng Unit 65, 66 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=65) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 151
+- Từ vựng: Đọc qua từ vựng Unit 61, 62 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=151) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 34
-- Từ vựng: Đọc qua từ vựng Unit 67, 68 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=67) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 152
+- Từ vựng: Đọc qua từ vựng Unit 63, 64 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=152) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 35
-- Từ vựng: Đọc qua từ vựng Unit 69, 70 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=69) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 153
+- Từ vựng: Đọc qua từ vựng Unit 65, 66 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=153) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 36
-- Từ vựng: Đọc qua từ vựng Unit 71, 72 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=71) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 154
+- Từ vựng: Đọc qua từ vựng Unit 67, 68 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=154) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 37
-- Từ vựng: Đọc qua từ vựng Unit 73, 74 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=73) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 155
+- Từ vựng: Đọc qua từ vựng Unit 69, 70 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=155) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 38
-- Từ vựng: Đọc qua từ vựng Unit 75, 76 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=75) và học từ vựng hàng ngày trên Anki.
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 156
+- Từ vựng: Đọc qua từ vựng Unit 71, 72 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=156) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 39
-- Từ vựng: Đọc qua từ vựng Unit 77, 78 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=77) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 157
+- Từ vựng: Đọc qua từ vựng Unit 73, 74 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=157) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
 
-### Ngày 40
-- Từ vựng: Đọc qua từ vựng Unit 79, 80 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=79) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài "" trong English Grammar In Use.
+### Ngày 158
+- Từ vựng: Đọc qua từ vựng Unit 75, 76 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=158) và học từ vựng hàng ngày trên Anki.
 - Hội thoại: [Nghe tại đường dẫn này]()
-- Đọc hiểu: 
-- Nghe hiểu: 
+- Đọc hiểu:
+- Nghe hiểu:
+
+### Ngày 159
+- Từ vựng: Đọc qua từ vựng Unit 77, 78 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=159) và học từ vựng hàng ngày trên Anki.
+- Hội thoại: [Nghe tại đường dẫn này]()
+- Đọc hiểu:
+- Nghe hiểu:
+
+### Ngày 160
+- Từ vựng: Đọc qua từ vựng Unit 79, 80 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=160) và học từ vựng hàng ngày trên Anki.
+- Hội thoại: [Nghe tại đường dẫn này]()
+- Đọc hiểu:
+- Nghe hiểu:
+
