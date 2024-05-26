@@ -48,6 +48,10 @@ Một trang học ngoại ngữ bao gồm tài liệu tốt nhất mà bạn nê
 - [Lộ trình học hàng ngày - Destinations](destinations.md)
 - [Lộ trình học hàng ngày - Directions](directions.md)
 
+**Các kho tài nguyên khác**
+
+- [Khu tổng hợp tài nguyên chính](https://daihocmo.github.io/tieng-anh/resources/)
+
 ### Tổng quan chương trình
 
 Chương trình sẽ tối ưu nhất khi bạn dùng máy tính để học (Sử dụng Anki, điều hướng các bài giảng trên trình duyệt, năng suất và tập trung hơn khi sử dụng điện thoại học). Bạn không nhất thiết phải có một Laptop đắt tiền có RGB và cấu hình khủng, mình hiện tại cũng học sử dụng Laptop Thinkpad T400 (Cài Linux).

@@ -1,4 +1,21 @@
-### 1. Yoda – the cat with four ears
+
+- [Yoda – the cat with four ears](#yoda--the-cat-with-four-ears)
+- [Salt coffee – Last Part](#salt-coffee--last-part)
+- [Salt coffee](#salt-coffee)
+- [Dating](#dating)
+- [Reasons of love](#reasons-of-love)
+- [Attractiveness in American culture](#attractiveness-in-american-culture)
+- [Love Map](#love-map)
+- [This thing called love](#this-thing-called-love)
+- [Independence Day](#independence-day)
+- [My dogs](#my-dogs)
+- [A poster at work](#a-poster-at-work)
+- [Holiday home adverts](#holiday-home-adverts)
+- [A message to a new friend](#a-message-to-a-new-friend)
+- [An email from a friend](#an-email-from-a-friend)
+- [Choosing a conference venue](#choosing-a-conference-venue)
+
+### Yoda – the cat with four ears
 Chicago, Illinois, couple Valerie and Ted Rock took the cat in two years ago after they visited a local bar, where a group of drinkers were handing the animal around and making fun of him.
 
 Since being adopted by the Rocks and after getting his picture posted on the Internet, the two-year-old feline has become an international media celebrity.
@@ -12,7 +29,7 @@ His extra ears are thought to be the result of a genetic mutation.
 But Yoda’s owners are keeping a close watch on their much-loved pet. They are concerned he could be catnapped because he is so different.
 
 
-### ###  Salt coffee – Last Part
+### Salt coffee – Last Part
 
 After 40 years, he passed away, and left her a letter which said: 
 
@@ -42,7 +59,7 @@ Her tears made the letter totally wet.
 
 Some day, someone asked her: “How does salty coffee taste?” “It’s sweet,” she replied. 
 
-### 3. Salt coffee
+### Salt coffee
 
 He met her at a party.
 
@@ -72,7 +89,7 @@ He replied:
 
 Now every time I have salty coffee, I always think of my childhood, think of my hometown, I miss my hometown so much, I miss my parents who are still living there.”
 
-### 4. Dating
+### Dating
 
 One day in the 1920’s, a young man asked if he could visit a woman at her home. When he arrived at her home, she was wearing a hat on her head. 
 
@@ -82,7 +99,7 @@ In the past, men liked sitting in the girl’s house to talk, to meet her mother
 
 This new style of dating began to take the place of the old system of visiting in society in the early 20th century. Nowadays, it is very popular around the world.
 
-### 5. Reasons of love
+### Reasons of love
 
 When choosing a partner for life what do people usually think of? A recent study has shown that these following factors are the most important things that one takes into consideration when choosing his/her partner. Firstly, beauty is an important factor. 
 
@@ -94,7 +111,7 @@ In addition, timing is important, if the partner comes in time, marriage is more
 
 
 
-### 6. Attractiveness in American culture
+### Attractiveness in American culture
 
 In a test done in the 1970s, 1,031 students at the University of Wyoming said what they considered attractive in their partners. Their answers were not new. 
 
@@ -106,7 +123,7 @@ Too short, too tall, too pale or too dark were not chosen. Averageness still win
 
 Then they asked people which face they liked. Of the 94 real faces, only 4 faces were considered to be more attractive than the average face. Most people said that they preferred the average face. 
 
-### 7. Love Map
+### Love Map
 
 Why do we fall in love with this one but not that? Why Bill instead of Ray? Researcher John Money believes that everyone has something he calls a “love map”. 
 
@@ -118,7 +135,7 @@ As they grow up, their love map becomes clearer. So long before you love someone
 
 Actually this one is far different from your ideal. However you can not see these differences. That’s why a famous saying goes: “Love is blind”
 
-### 8. This thing called love
+### This thing called love
 
 A man and a woman are at a party. They are strangers. This is the first time they meet. The woman sees the man first. He is talking to some of his friends. “He has a nice smile”, she thinks. 
 
@@ -129,7 +146,7 @@ She begins talking to people near her, waiting for him to come to talk with her.
 They talk so much. They talk as if no one else is in the room. Each tries to tell the other everything. Both know that they have fallen in love. 
 
 
-### 9. Independence Day
+### Independence Day
 
 Before the end of the 1700s, the United States did not exist. It was only 13 colonies on the continent of North America which were under the control of King George III of Britain. 
 
@@ -142,7 +159,7 @@ However Independence Day is now celebrated on July 4, because that is the day th
 The 13 colonies of North America were then free from the control of the British King. However the war did not end in 1776. It was still on till 1783. In 1783 Independence Day became an official holiday in the United States.
 
 
-### 10. My dogs
+### My dogs
 
 Pets are domesticated animals that we keep for pleasure. Of all the pets I like dog the most. In my house we have two dogs. One is an Alsatian dog and the other is a bulldog. 
 
@@ -156,23 +173,29 @@ I bath him everyday to keep him clean. It follows me wherever I go. It knows the
 
 
 
-### 11. A poster at work
+### A poster at work
+
 Come and join our lunchtime yoga class with experienced yoga teacher Divya Bridge!
 
 When? Every Tuesday at 1.30 p.m.
+
 Where? Meeting Room 7
+
 How much? £10 for four 30-minute classes.
+
 What to bring? Comfortable clothes. Divya will provide the yoga mats.
+
 How to join? Write to Sam at Sam.Holden@example.com
+
 We can only take a maximum of 20 in the room, so book now!
 
-### 12. Holiday home adverts
+### Holiday home adverts
 
 Beautiful two-bedroom city flat five minutes' walk from the cathedral. Fully equipped kitchen, living room with a large sofa and chairs, big TV and balcony. The balcony has space for four people to sit and get the sun in the mornings, and the flat is light and warm. It has Wi-Fi and fast internet. The upstairs bedroom sleeps four people, with two double beds; the downstairs bedroom sleeps two in single beds. The flat is perfect for families and is near shops, bars and restaurants. Four-bedroom farmhouse in the countryside. 
 
 All of the four double bedrooms are en suite with a luxury shower and bath. Farm kitchen with barbecue, tables and chairs outside. Great for groups of friends. The supermarket is half an hour by car and you can take a train from the village into the city. Escape from normal life for a few days as we have ... NO INTERNET and you can only use mobile phones at the bottom of the garden!
 
-### 13. A message to a new friend
+### A message to a new friend
 
 Hi Lucia 
 
@@ -186,7 +209,7 @@ Bye for now
 
 Mikel
 
-### 14. An email from a friend
+### An email from a friend
 
 Hi Samia, 
 
@@ -198,7 +221,7 @@ Really looking forward to seeing you! See you soon!
 
 Gregor 
 
-### 15. Choosing a conference venue
+### Choosing a conference venue
 
 The International Centre 
 
@@ -208,4 +231,4 @@ The Grand West
 
 The Grand West is a country house surrounded by rolling hills and beautiful scenery, only a 30-minute drive from the airport. With 76 hotel rooms, 12 meeting rooms and a conference room that takes up to 200 people, the Grand West offers free Wi-Fi and a whiteboard in every room. You can also make use of the gardens of the Grand West for team-building events and outdoor activities. Our indoor swimming pool, gym and 18-hole golf course will ensure that your event is relaxing and enjoyable for everyone.
 
-Ket hop voi cac bai doc tren [NewsInLevel](https://www.newsinlevels.com/products/a-man-dies-on-a-plane-level-1/)
+Bạn có thể đọc thêm rất nhiều bài hay trên [NewsInLevel](https://www.newsinlevels.com/products/a-man-dies-on-a-plane-level-1/)
