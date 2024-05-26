@@ -8,6 +8,29 @@ Tổng thời lượng cho cả 4 cuốn này sẽ rơi vào khoảng 150 đến
 
 Bạn hoàn toàn có thể bỏ qua những bài bất kì trong Streamline nếu bạn thấy mình đã hiểu/biết từ vựng rồi hay ngữ pháp (Dù vậy nhưng cá nhân tớ vẫn gợi ý nên đọc lại từ English Grammar In Use, giáo trình ngữ pháp mà mình dùng trong chương trình này). Nhưng còn các phần khác như nghe hiểu, đọc hiểu là bắt buộc. 
 
+### Mục lục
+
+- [Mở đầu](#mở-đầu)
+- [Tài nguyên](#tài-nguyên)
+- [Tổng quan chương trình](#tổng-quan-chương-trình)
+    - [Từ vựng](#từ-vựng)
+    - [Ngữ pháp](#ngữ-pháp)
+    - [Hội thoại](#hội-thoại)
+    - [Đọc hiểu](#đọc-hiểu)
+    - [Nghe hiểu](#nghe-hiểu)
+    - [Từ điển](#từ-điển)
+    - [Một số lưu ý khác](#một-số-lưu-ý-khác)
+- [Phần 1: Departures](#departures)
+    - [Khởi đầu](#khởi-đầu)
+    - [Lộ trình học hàng ngày](#lộ-trình-học-hàng-ngày)
+- [Phần 2: Connections](#connections)
+- [Phần 3:Destinations](#destinations)
+- [Phần 4: Directions](#directions)
+- [Comprehensible English](#comprehensible-english)
+    - [Listening](#listening)
+    - [Reading](#reading)
+- [Tiếp bước](#tiếp-bước)
+
 ### Mở đầu
 
 Chương trình học này sẽ sử dụng giáo trình Streamline English, một giáo trình tương đối có tiếng về Tiếng Anh giao tiếp. Nhưng chúng ta chỉ học phần luyện nghe hội thoại và một chút từ vựng với đọc hiểu thông qua nó thôi, còn lại, ta sẽ tự học thêm khá nhiều thứ khác từ nhiều nguồn trên Internet do mình tự tổng hợp. 
@@ -17,40 +40,12 @@ Nhưng ở đây, trong giai đoạn mới học, ít nhất cho đến khi qua 
 Một trang học ngoại ngữ bao gồm tài liệu tốt nhất mà bạn nên tận dụng đó là trang [Lớp ngoại ngữ](http://lopngoaingu.com/). Bạn có thể đọc giáo trình Streamline và nghe Audio ở trong đó luôn. Nếu không nghe được thì bạn xem ở dưới sẽ có đường dẫn cho bài nghe trên Youtube.
 
 ### Tài nguyên 
-Lướt qua trang [Lớp ngoại ngữ](http://lopngoaingu.com/) để xem giáo trình Streamline.
 
-Trước hết mọi người hãy tải giáo trình Streamline về, trong quá trình học sử dụng cho tiện, trong tệp cài đã có sẵn bản PDF và audio files. Tải giáo trình Streamline English tại:
+**Tài nguyên học cho từng học phần sẽ được tổng hợp ở đầu lộ trình học hàng ngày cho mỗi học phần. Bạn có thể đọc bên dưới:**
 
-- [Departures](http://www.mediafire.com/file/f07ana7t24d90h1/1st_Steamline+english+Departures.zip)
-
-- [Connections](http://www.mediafire.com/file/qwwpbdc9ibi36av/2st_Steamline+english+Connections.zip)
-
-- [Destinations](http://www.mediafire.com/file/s10dpa5eggddc14/3rd_Steamline+english+Destinations.zip)
-
-- [Directions](http://www.mediafire.com/file/wdu97gw7bc1bu33/4th_Steamline+english+Directions.zip)
-
-_(Lấy link tải từ trang Aroma.vn. Bạn có thể tự tải bên ngoài vì nó cũng có rất nhiều)_ 
-
-Nếu bạn không muốn tải về mà muốn học trực tuyến luôn thì:
-
-#### Departures
-- [Âm thanh](https://www.youtube.com/playlist?list=PL1E4A30693094D8AD)
-- [Sách](http://lopngoaingu.com/listening/streamline-english/Departure/index.php)
 - [Lộ trình học hàng ngày - Departure](departures.md)
-
-#### Connections
-- [Âm thanh](https://www.youtube.com/playlist?list=PLC6055FEEE8C855BA)
-- [Sách](http://lopngoaingu.com/listening/streamline-english/Connections/index.php)
 - [Lộ trình học hàng ngày - Connections](connections.md)
-
-#### Destinations
-- [Âm thanh](https://www.youtube.com/playlist?list=PLF26D0BB50072C4B5)
-- [Sách](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php)
 - [Lộ trình học hàng ngày - Destinations](destinations.md)
-
-#### Directions
-- [Âm thanh]() - Không tìm được.
-- [Sách](http://lopngoaingu.com/listening/streamline-english/Directions/index.php)
 - [Lộ trình học hàng ngày - Directions](directions.md)
 
 ### Tổng quan chương trình
@@ -116,16 +111,15 @@ Lộ trình học mỗi ngày cho phần Departure bạn có thể đọc [tại
 
 Nếu bạn là một người thích nghe giảng thì bạn có thể xem bài giảng cho Departure [tại đây](https://www.youtube.com/playlist?list=PLYL60jUJ0pUQvPw7DBp2KhP7PVy4MC0vL) 
 
-#### Lộ trình học hàng ngày:
+#### Lộ trình học hàng ngày
 
 Mỗi ngày 1 -> 2 Unit trong Streamlines (Cá nhân mình khuyến khích hai vì mỗi Unit của cuốn này tương đối ngắn). Còn lại dành thời gian đắm mình vào Tiếng Anh và học các chủ đề bên ngoài. Nếu học hai unit mỗi ngày thì bạn sẽ xong cuốn 1 trong 40 ngày.
 
-### Phần 2: Connections
+Lộ trình này về cơ bản cũng sẽ tương tự với các học phần khác nâng cao hơn.
 
-#### Khởi đầu
+### Connections
 
 Cuốn 2 gồm 79 chương, thì học mỗi ngày hai chương hoặc hơn.
-
 
 Kiểm tra tài nguyên ở gần đầu bài.
 
@@ -133,10 +127,8 @@ Lộ trình học mỗi ngày cho phần Connections bạn có thể đọc [t�
 
 Bài giảng cho Connections [tại đây](https://www.youtube.com/playlist?list=PLYL60jUJ0pURbiTEan4E8qJVelUREfJEe). Bài giảng này không đầy đủ nên chỉ để ở đây thui.
 
-#### Lộ trình học hàng ngày:
 
-
-### Phần 3: Destinations
+### Destinations
 
 Cuốn 3 gồm 79 chương, thì học mỗi ngày hai chương hoặc hơn.
 
@@ -144,12 +136,7 @@ Kiểm tra tài nguyên ở gần đầu bài.
 
 Lộ trình học mỗi ngày cho phần Destinations bạn có thể đọc [tại đây](destinations.md) 
 
-Bài giảng cho Connections [tại đây](https://www.youtube.com/playlist?list=PLYL60jUJ0pURbiTEan4E8qJVelUREfJEe). Bài giảng này không đầy đủ nên chỉ để ở đây thui.
-
-#### Lộ trình học hàng ngày:
-
-
-### Phần 4: Directions
+### Directions
 
 Cuốn 4 gồm 79 chương, thì học mỗi ngày hai chương hoặc hơn.
 
@@ -157,22 +144,17 @@ Kiểm tra tài nguyên ở gần đầu bài nếu cần.
 
 Lộ trình học mỗi ngày cho phần Directions bạn có thể đọc [tại đây](directions.md) 
 
-Bài giảng cho Connections [tại đây](https://www.youtube.com/playlist?list=PLYL60jUJ0pURbiTEan4E8qJVelUREfJEe). Bài giảng này không đầy đủ nên chỉ để ở đây thui.
-
 Đây sẽ là cuốn cuối cùng trong giáo trình. Sau khi bạn học hết cả bốn cuốn này sẽ còn một thử thách nho nhỏ đang đợi bạn phía trước trước khi đến giai đoạn tiếp theo.
-
-#### Lộ trình học hàng ngày:
-
 
 ### Comprehensible English 
 
 Tổng hợp toàn bộ các tài nguyên luyện nghe hiểu và đọc hiểu mà bạn nên/có thể sử dụng.
 
-#### Nghe hiểu
+#### Listening
 1. [Absolute Beginner](https://www.youtube.com/playlist?list=PLqE81DRO-TpEWRe-O9HuuATMxRuF6qrVx)
 2. [Beginner](https://www.youtube.com/playlist?list=PLqE81DRO-TpEdaIQaWdMgDjNHihgC56nl)
 
-#### Đọc hiểu
+#### Reading
 
 
 ### Tiếp bước
