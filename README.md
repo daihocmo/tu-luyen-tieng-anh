@@ -52,8 +52,15 @@ Một trang học ngoại ngữ bao gồm tài liệu tốt nhất mà bạn nê
 
 Chương trình sẽ tối ưu nhất khi bạn dùng máy tính để học (Sử dụng Anki, điều hướng các bài giảng trên trình duyệt, năng suất và tập trung hơn khi sử dụng điện thoại học). Bạn không nhất thiết phải có một Laptop đắt tiền có RGB và cấu hình khủng, mình hiện tại cũng học sử dụng Laptop Thinkpad T400 (Cài Linux).
 
+Chương trình này yêu cầu bạn thực hiện hàng ngày, không được nghỉ quá 2 ngày liên tiếp để có kết quả tốt, tăng khả năng nhớ từ dài hạn và đắm chìm mình vào Tiếng Anh trong một khoảng thời gian tương đối.
+
 #### Từ vựng
+
 Bạn sẽ học từ vựng hàng ngày khoảng từ 20 đến 30 từ vựng thông qua [Anki](https://apps.ankiweb.net/), và trong khoảng 150 ngày bạn sẽ hoàn thiện được 3000 từ. Lưu ý là sau 150 ngày bạn vẫn phải ôn tập thường xuyên trên Anki để đưa từ vựng vào bộ nhớ dài hạn. Bắt đầu ngay bằng cách tải xuống (Bấm vào chữ Anki ở trên) và xem hướng dẫn Tiếng Việt của Đạt Nguyễn [tại đây](https://youtu.be/M9-qwsHyBrc) (Hướng dẫn tuy khá cũ nhưng về cơ bản nó cũng không khác quá nhiều).
+
+Việc học cách sử dụng Anki là BẮT BUỘC. Rất nhiều người đã bỏ dùng Anki dù nó rất hiệu quả trong việc cải thiện ghi nhớ vì thấy nó khó dùng.
+
+Một điều BẮT BUỘC khác là phải sử dụng hàng ngày, không được mất quá một ngày vì như thế sẽ ảnh hưởng đến khả năng nhớ từ dài hạn.
 
 **[Đây là bộ thẻ](https://ankivn.com/bo-the/ngoai-ngu/tieng-anh/3000-tu-vung-tieng-anh-thong-dung/) mà bạn cần tải để ôn tập hàng ngày.**
 
@@ -65,11 +72,20 @@ Ngữ pháp thì bọn mình sẽ học luôn từ cuốn English Grammar In Use
 
 Bạn có thể tự tải bản điện tử của cuốn này trên mạng [tại đây](https://efis.edu.vn/download-sach-english-grammar-in-use-130-bai-ngu-phap-tieng-anh/) hoặc đọc trực tiếp tại lớp ngoại ngữ [tại đây](http://lopngoaingu.com/grammar-in-use/index.php) hoặc đọc bản do mình số hóa lại sách [tại đây](https://daihocmo.github.io/tieng-anh/grammar-guide/) (Bản của mình vẫn còn lỗi chính tả và đang được chỉnh sửa, cũng được kha khá rồi nên bạn hoàn toàn có thể dùng cho 50 bài đầu, mình sẽ cập nhật thêm).
 
+Có thể bạn sẽ đọc được là "English Grammar In Use" chỉ nên dùng để đọc tham khảo theo từng đầu mục (tương tự tra cứu). Và sẽ tốt hơn nữa nếu, bạn có thể hiểu được các điểm ngữ pháp trong sách. Cá nhân mình khá "không ưa" cuốn Destination vì:
+
+- Trình bày ngữ pháp dưới dạng công thức.
+- Bắt làm bài tập
+
+Nó không phù hợp để tiếp nhận Tiếng Anh một cách có hệ thống và để giúp việc sử dụng Tiếng Anh trở lên tự nhiên hơn thay vì phải áp công thức mỗi lần sử dụng.
+
 #### Hội thoại
 
 Bạn sẽ được nghe những cuộc hội thoại giữa người với người trong các tình huống thực tế. Bạn có thể thực hiện Shadowing để luyện phát âm ngay từ đầu nhưng tuyệt đối không được tự nghĩ rồi nói, trừ khi câu đó bạn chắc chắn rằng mình đã đọc/nghe từ một nguồn Tiếng Anh chuẩn.
 
 Các bài hội thoại chính sẽ được lấy từ Streamline luôn vì đây là giáo trình giao tiếp.
+
+Các bài nghe trong Streamline rất ngắn. Thực tế, chỉ khoảng 2 phút cho mỗi Unit (Tùy từng bài).  
 
 #### Đọc hiểu
 
@@ -99,7 +115,7 @@ Một yêu cầu nhỏ nữa là, cấm được làm bài tập ngữ pháp, l�
 
 Trong sách (nếu bạn tải bản PDF) sẽ có bài tự tạo câu dựa trên các từ cho sẵn (Write sentence). Bỏ qua bài đó. Có thể đọc nhưng không được làm.
 
-### Phần 1: Departures
+### Departures
 
 #### Khởi đầu
 
@@ -113,7 +129,7 @@ Nếu bạn là một người thích nghe giảng thì bạn có thể xem bài
 
 #### Lộ trình học hàng ngày
 
-Mỗi ngày 1 -> 2 Unit trong Streamlines (Cá nhân mình khuyến khích hai vì mỗi Unit của cuốn này tương đối ngắn). Còn lại dành thời gian đắm mình vào Tiếng Anh và học các chủ đề bên ngoài. Nếu học hai unit mỗi ngày thì bạn sẽ xong cuốn 1 trong 40 ngày.
+Mỗi ngày 2 Unit trong Streamlines (Có thể hơn, dựa trên nhu cầu học của bạn). Còn lại dành thời gian đắm mình vào Tiếng Anh và học các chủ đề bên ngoài. Nếu học hai unit mỗi ngày thì bạn sẽ xong cuốn 1 trong 40 ngày.
 
 Lộ trình này về cơ bản cũng sẽ tương tự với các học phần khác nâng cao hơn.
 
