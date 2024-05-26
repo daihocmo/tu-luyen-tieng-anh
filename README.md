@@ -77,18 +77,22 @@ Bạn sẽ được nghe những cuộc hội thoại giữa người với ngư
 Các bài hội thoại chính sẽ được lấy từ Streamline luôn vì đây là giáo trình giao tiếp.
 
 #### Đọc hiểu
+
 Việc đọc hay đắm mình vào ngôn ngữ viết sẽ giúp bạn cải thiện ngoại ngữ rất nhanh. Nhưng đồng thời việc đọc quá nhiều so với nghe sẽ khiến bạn hỏng phát âm. Bạn có thể chia việc đọc/nghe - 70/30 hoặc an toàn hơn là 50/50.
 
 Trong những ngày đầu của chương trình sẽ chưa có phần đọc hiểu, phần đọc hiểu sẽ được thêm vào các ngày sau của giáo trình sau khi bạn đã học được một lượng ngữ pháp và từ vựng tương đối.
 
 #### Nghe hiểu
+
 Các bài ban đầu đa phần mình sẽ lấy từ Real English Conversation, mình sẽ kết hợp thêm với các bài Comprehensible Input nếu có thể.
 
 #### Sử dụng từ điển trong quá trình học
 Bạn có thể sử dụng một trong hai từ điển trực tuyến, cá nhân mình gợi ý "la bàn" vì thường có nhiều câu ví dụ hơn.
 
-- [la bàn](https://dict.laban.vn/)
-- [vdict](https://vdict.com)
+- [Laban](https://dict.laban.vn/)
+- [Vdict](https://vdict.com)
+
+Hoặc sử dụng từ điển ngoại tuyến như Goldendict, khu tài nguyên từ điển Tiếng Anh bạn có thể xem [tại đây](https://daihocmo.github.io/tieng-anh/resources/#tu-ien).
 
 #### Một số lưu ý khác
 
@@ -108,7 +112,7 @@ Cuốn 1 gồm 79 chương, thì học mỗi ngày một đến hai chương (N�
 
 Kiểm tra tài nguyên ở gần đầu bài.
 
-Lộ trình học mỗi ngày cho phần Departure bạn có thể đọc [tại đây]() 
+Lộ trình học mỗi ngày cho phần Departure bạn có thể đọc [tại đây](departures.md) 
 
 Nếu bạn là một người thích nghe giảng thì bạn có thể xem bài giảng cho Departure [tại đây](https://www.youtube.com/playlist?list=PLYL60jUJ0pUQvPw7DBp2KhP7PVy4MC0vL) 
 
@@ -116,52 +120,48 @@ Nếu bạn là một người thích nghe giảng thì bạn có thể xem bài
 
 Mỗi ngày 1 -> 2 Unit trong Streamlines (Cá nhân mình khuyến khích hai vì mỗi Unit của cuốn này tương đối ngắn). Còn lại dành thời gian đắm mình vào Tiếng Anh và học các chủ đề bên ngoài. Nếu học hai unit mỗi ngày thì bạn sẽ xong cuốn 1 trong 40 ngày.
 
-
 ### Phần 2: Connections
 
 #### Khởi đầu
 
-Cuốn 2 gồm 79 chương, thì học mỗi ngày hai chương hoặc hơn (vì mỗi chương cũng không quá dài).
+Cuốn 2 gồm 79 chương, thì học mỗi ngày hai chương hoặc hơn.
+
 
 Kiểm tra tài nguyên ở gần đầu bài.
 
-Lộ trình học mỗi ngày cho phần Departure bạn có thể đọc [tại đây]() 
+Lộ trình học mỗi ngày cho phần Connections bạn có thể đọc [tại đây](connections.md) 
 
 Bài giảng cho Connections [tại đây](https://www.youtube.com/playlist?list=PLYL60jUJ0pURbiTEan4E8qJVelUREfJEe). Bài giảng này không đầy đủ nên chỉ để ở đây thui.
 
 #### Lộ trình học hàng ngày:
 
-Mỗi ngày 1 -> 2 Unit trong Streamlines (Cá nhân mình khuyến khích hai vì mỗi Unit của cuốn này tương đối ngắn). Còn lại dành thời gian đắm mình vào Tiếng Anh và học các chủ đề bên ngoài. Nếu học hai unit mỗi ngày thì bạn sẽ xong cuốn 1 trong 40 ngày.
 
 ### Phần 3: Destinations
 
-Cuốn 3 gồm 79 chương, thì học mỗi ngày hai chương hoặc hơn (vì mỗi chương cũng không quá dài).
+Cuốn 3 gồm 79 chương, thì học mỗi ngày hai chương hoặc hơn.
 
 Kiểm tra tài nguyên ở gần đầu bài.
 
-Lộ trình học mỗi ngày cho phần Departure bạn có thể đọc [tại đây]() 
+Lộ trình học mỗi ngày cho phần Destinations bạn có thể đọc [tại đây](destinations.md) 
 
 Bài giảng cho Connections [tại đây](https://www.youtube.com/playlist?list=PLYL60jUJ0pURbiTEan4E8qJVelUREfJEe). Bài giảng này không đầy đủ nên chỉ để ở đây thui.
 
 #### Lộ trình học hàng ngày:
 
-Mỗi ngày 1 -> 2 Unit trong Streamlines (Cá nhân mình khuyến khích hai vì mỗi Unit của cuốn này tương đối ngắn). Còn lại dành thời gian đắm mình vào Tiếng Anh và học các chủ đề bên ngoài. Nếu học hai unit mỗi ngày thì bạn sẽ xong cuốn 1 trong 40 ngày.
 
-### Phần 4: Departures
+### Phần 4: Directions
 
-Cuốn 4 gồm 79 chương, thì học mỗi ngày hai chương hoặc hơn (vì mỗi chương cũng không quá dài).
+Cuốn 4 gồm 79 chương, thì học mỗi ngày hai chương hoặc hơn.
 
-Kiểm tra tài nguyên ở gần đầu bài.
+Kiểm tra tài nguyên ở gần đầu bài nếu cần.
 
-Lộ trình học mỗi ngày cho phần Departure bạn có thể đọc [tại đây]() 
+Lộ trình học mỗi ngày cho phần Directions bạn có thể đọc [tại đây](directions.md) 
 
 Bài giảng cho Connections [tại đây](https://www.youtube.com/playlist?list=PLYL60jUJ0pURbiTEan4E8qJVelUREfJEe). Bài giảng này không đầy đủ nên chỉ để ở đây thui.
 
 Đây sẽ là cuốn cuối cùng trong giáo trình. Sau khi bạn học hết cả bốn cuốn này sẽ còn một thử thách nho nhỏ đang đợi bạn phía trước trước khi đến giai đoạn tiếp theo.
 
 #### Lộ trình học hàng ngày:
-
-Mỗi ngày 1 -> 2 Unit trong Streamlines (Cá nhân mình khuyến khích hai vì mỗi Unit của cuốn này tương đối ngắn). Còn lại dành thời gian đắm mình vào Tiếng Anh và học các chủ đề bên ngoài. Nếu học hai unit mỗi ngày thì bạn sẽ xong cuốn 1 trong 40 ngày.
 
 
 ### Comprehensible English 
