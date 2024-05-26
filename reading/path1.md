@@ -21,7 +21,7 @@ Danh sách các bài được đánh giá "Super Easy" trên trang ESLFast.
 - [CLEAN HANDS](#clean-hands)
 - [WHO IS IT?](#who-is-it)
 - [TRASH DAY](#trash-day)
-- [Thử thách khóa 1 - Bài đọc](#th%E1%BB%AD-th%C3%A1ch-kh%C3%B3a-1---b%C3%A0i-%C4%91%E1%BB%8Dc)
+- [Challenge](#challenge)
 
 
 ### 1. A good boy
@@ -102,7 +102,10 @@ Joseph never opens the front door. When someone knocks on the front door, Joseph
 Jennifer pulled the trash can out to the street. She pulled the trash can out to the street on Monday morning. Monday was trash day. The trash truck came to her house. The truck had a metal arm. The metal arm picked up the trash can. It raised the trash can into the sky. It emptied the trash can into the truck. Then the arm put the can back on the street. On Monday afternoon Jennifer walked out to the street. The trash can was empty. She pulled the trash can back into her yard. Next Monday she would pull it out to the street again.
 
 
-### Thử thách khóa 1 - Bài đọc
+### Challenge
+
+_Đây là bài đọc cuối cùng trong danh sách bài đọc phần Departures, đọc thử xem!_
+
 Marty Mckay was already five years old, but he was still the baby of the family.
 
 "Can I have some tea too?" Marty asked his mother. She drank her tea from a beautiful cup and stirred it with a silver spoon.

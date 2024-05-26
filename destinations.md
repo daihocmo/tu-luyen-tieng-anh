@@ -1,10 +1,17 @@
 Bắt đầu học Giai đoạn 3 - cuốn Destinations (Streamline English)
 
-### Lưu ý
-- Ở phần "Hội thoại", mình sẽ để đường dẫn đến các bài nghe trên Youtube, vậy nên bạn hoàn toàn có thể nghe trực tiếp nếu bạn đã tải cả sách và tệp âm thanh ở bài gốc.
-- Ở phần từ vựng, đường dẫn sẽ đến bài đầu tiên cần học, ví dụ như ngày 1 cần học Unit 1 và Unit 2 thì đường dẫn sẽ đến bài tại Unit 1, và bạn cần tự chuyển bài sang Unit 2 sau khi học xong Unit 1.
-- Các đường dẫn sẽ được điền ngay tại đây cho bạn, nếu bạn tự tải các giáo trình về thì bạn chỉ cần tự tìm tên bài tương ứng.
+### Tài nguyên học
 
+#### Giáo trình
+
+- [Destinations](http://www.mediafire.com/file/s10dpa5eggddc14/3rd_Steamline+english+Destinations.zip) - Tổng hợp toàn bộ sách dạng PDF và tệp âm thanh
+- [Danh sách bài nghe](https://www.youtube.com/playlist?list=PLF26D0BB50072C4B5) - Mình đã chia toàn bộ cho từng ngày ở bên dưới nên cứ đến ngày nào là bạn nghe thôi
+- [Sách online](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php) - Đọc trực tiếp cuốn này trên Lopngoaingu. Gợi ý nên tải tệp sách về
+- [Danh sách các bài đọc](./reading/path3.md)
+
+#### Nội dung Tiếng Anh
+
+_Các nội dung Tiếng Anh (Comprehensible Input) được chọn ra để bạn tiêu thụ trong thời gian học._
 
 ### Lộ trình học
 - [Ngày 81](#ngày-81)

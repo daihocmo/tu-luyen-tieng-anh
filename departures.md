@@ -6,6 +6,18 @@ Bắt đầu học Giai đoạn 1 - cuốn Departures (Streamline English)
 - Ở phần từ vựng, đường dẫn sẽ đến bài đầu tiên cần học, ví dụ như ngày 1 cần học Unit 1 và Unit 2 thì đường dẫn sẽ đến bài tại Unit 1, và bạn cần tự chuyển bài sang Unit 2 sau khi học xong Unit 1.
 - Các đường dẫn sẽ được điền ngay tại đây cho bạn, nếu bạn tự tải các giáo trình về thì bạn chỉ cần tự tìm tên bài tương ứng.
 
+### Tài nguyên học
+
+#### Giáo trình
+
+- [Departures](http://www.mediafire.com/file/f07ana7t24d90h1/1st_Steamline+english+Departures.zip) - Tổng hợp toàn bộ sách dạng PDF và tệp âm thanh
+- [Danh sách bài nghe](https://www.youtube.com/playlist?list=PL1E4A30693094D8AD) - Mình đã chia toàn bộ cho từng ngày ở bên dưới nên cứ đến ngày nào là bạn nghe thôi
+- [Sách online](http://lopngoaingu.com/listening/streamline-english/Departure/index.php) - Đọc trực tiếp cuốn này trên Lopngoaingu. Gợi ý nên tải tệp sách về
+- [Danh sách các bài đọc](./reading/path1.md)
+
+#### Nội dung Tiếng Anh
+
+_Các nội dung Tiếng Anh (Comprehensible Input) được chọn ra để bạn tiêu thụ trong thời gian học._
 
 ### Lộ trình học
 - [Ngày 1](#ngày-1)
@@ -49,7 +61,7 @@ Bắt đầu học Giai đoạn 1 - cuốn Departures (Streamline English)
 - [Ngày 39](#ngày-39)
 - [Ngày 40](#ngày-40)
 
-Trong 20 ngày đầu sẽ chưa yêu cầu đọc, khoảng thời gian này việc đọc đối với mọi người thực sự rất thử thách.
+_Trong 20 ngày đầu sẽ chưa yêu cầu đọc, khoảng thời gian này việc đọc đối với mọi người thực sự rất thử thách._
 
 ### Ngày 1
 - Từ vựng: Đọc qua từ vựng Unit 1, 2 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=1) và học từ vựng hàng ngày trên Anki.

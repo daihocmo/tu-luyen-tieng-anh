@@ -1,10 +1,17 @@
 Bắt đầu học Giai đoạn 2 - cuốn Connections (Streamline English)
 
-### Lưu ý
+### Tài nguyên học
 
-- Ở phần "Hội thoại", mình sẽ để đường dẫn đến các bài nghe trên Youtube, vậy nên bạn hoàn toàn có thể nghe trực tiếp nếu bạn đã tải cả sách và tệp âm thanh ở bài gốc.
-- Ở phần từ vựng, đường dẫn sẽ đến bài đầu tiên cần học, ví dụ như ngày 1 cần học Unit 1 và Unit 2 thì đường dẫn sẽ đến bài tại Unit 1, và bạn cần tự chuyển bài sang Unit 2 sau khi học xong Unit 1.
-- Các đường dẫn sẽ được điền ngay tại đây cho bạn, nếu bạn tự tải các giáo trình về thì bạn chỉ cần tự tìm tên bài tương ứng.
+#### Giáo trình
+
+- [Connections](http://www.mediafire.com/file/qwwpbdc9ibi36av/2st_Steamline+english+Connections.zip) - Tổng hợp toàn bộ sách dạng PDF và tệp âm thanh
+- [Danh sách bài nghe](https://www.youtube.com/playlist?list=PLC6055FEEE8C855BA) - Mình đã chia toàn bộ cho từng ngày ở bên dưới nên cứ đến ngày nào là bạn nghe thôi
+- [Sách online](http://lopngoaingu.com/listening/streamline-english/Connections/index.php) - Đọc trực tiếp cuốn này trên Lopngoaingu. Gợi ý nên tải tệp sách về
+- [Danh sách các bài đọc](./reading/path2.md)
+
+#### Nội dung Tiếng Anh
+
+_Các nội dung Tiếng Anh (Comprehensible Input) được chọn ra để bạn tiêu thụ trong thời gian học._
 
 
 ### Lộ trình học
@@ -154,7 +161,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=52) trong English Grammar In Use.
 - Hội thoại: 
     + [Streamline English Connections 23](https://www.youtube.com/watch?v=fR5YmzNH9Dc) 
-Chưa có bài 24
+    + Chưa có bài 24
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/4o7YMe3zLtQ)
 
@@ -226,7 +233,7 @@ Chưa có bài 24
 - Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=60) trong English Grammar In Use.
 - Hội thoại: 
     + [Streamline English Connections 39](https://www.youtube.com/watch?v=IhFQlrmI0-I)
-38.     + [Streamline English Connections 40](https://www.youtube.com/watch?v=5OeMQpeXzcc)
+    + [Streamline English Connections 40](https://www.youtube.com/watch?v=5OeMQpeXzcc)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation]()
 
@@ -235,7 +242,7 @@ Chưa có bài 24
 - Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=61) trong English Grammar In Use.
 - Hội thoại: 
     + [Streamline English Connections 41](https://www.youtube.com/watch?v=ddKZlx5sC9k)
-40.     + [Streamline English Connections 42](https://www.youtube.com/watch?v=sNlNHPgVWPM) 
+    + [Streamline English Connections 42](https://www.youtube.com/watch?v=sNlNHPgVWPM) 
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation]()
 
@@ -244,7 +251,7 @@ Chưa có bài 24
 - Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=62) trong English Grammar In Use.
 - Hội thoại: 
     + [Streamline English Connections 43](https://www.youtube.com/watch?v=ZYrz1hUtOcc)
-42.     + [Streamline English Connections 44](https://www.youtube.com/watch?v=ED4yceRe20Q)
+    + [Streamline English Connections 44](https://www.youtube.com/watch?v=ED4yceRe20Q)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation]()
 
@@ -252,7 +259,7 @@ Chưa có bài 24
 - Từ vựng: Đọc qua từ vựng Unit 45, 46 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=45) và học từ vựng hàng ngày trên Anki
 - Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=63) trong English Grammar In Use.
 - Hội thoại: 
-Thiếu 45
+    + Thiếu 45
     + [Streamline English Connections 46](https://www.youtube.com/watch?v=IbhovVzqPTI)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation]()
@@ -281,7 +288,6 @@ Thiếu 45
 - Hội thoại: 
     + [Streamline English Connections 51](https://www.youtube.com/watch?v=Nl_FxROInF4)
     + [Streamline English Connections 52](https://www.youtube.com/watch?v=BsZ1TiDi7gg)
-
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/HIWJli9_KPo)
 
@@ -289,7 +295,7 @@ Thiếu 45
 - Từ vựng: Đọc qua từ vựng Unit 53, 54 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=53) và học từ vựng hàng ngày trên Anki
 - Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=67) trong English Grammar In Use.
 - Hội thoại: 
-Thiếu bài 53
+    + Thiếu bài 53
     + [Streamline English Connections 54](https://www.youtube.com/watch?v=onivLGCDKbQ)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/17G5S5VWbN8)
@@ -316,7 +322,7 @@ Thiếu bài 53
 - Từ vựng: Đọc qua từ vựng Unit 59, 60 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=59) và học từ vựng hàng ngày trên Anki
 - Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=70) trong English Grammar In Use.
 - Hội thoại: 
-Thiếu bài 59
+    + Thiếu bài 59
     + [Streamline English Connections 60](https://www.youtube.com/watch?v=X_5qCFAZPYk)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/2pYMd2biAmw)
@@ -369,8 +375,7 @@ Thiếu bài 59
 - Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=76) trong English Grammar In Use.
 - Hội thoại: 
     + [Streamline English Connections 71](https://www.youtube.com/watch?v=YfpVWYWRMs0)
-Thiếu 72
-
+    + Thiếu 72
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/8z-GQ9VOjLI)
 
@@ -379,7 +384,6 @@ Thiếu 72
 - Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=77) trong English Grammar In Use.
 - Hội thoại: 
     + [Streamline English Connections 73](https://www.youtube.com/watch?v=h3bnDojBm1c)
-
     + [Streamline English Connections 74](https://www.youtube.com/watch?v=5TLZUOc3MA0)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/A9XOzBk3PxQ)
@@ -398,6 +402,7 @@ Thiếu 72
 - Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=79) trong English Grammar In Use.
 - Hội thoại: 
     + [Streamline English Connections 77](https://www.youtube.com/watch?v=d_NANvUyVKA) 
+    + Thiếu bài 78 trên Youtube.
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/8_c0YgLOcdo)
 
