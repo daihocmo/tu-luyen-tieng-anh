@@ -76,7 +76,7 @@ Một điều BẮT BUỘC khác là phải sử dụng hàng ngày, không đư
 
 Tất nhiên, tính BẮT BUỘC đó chỉ cố hữu ở giai đoạn đầu, khi bạn xong chương trình này, việc sử dụng Anki trở nên không còn quá quan trọng nữa. Nó chỉ đơn giản là bổ trợ (Nếu bạn có thực hành Sentence Mining). TẬP TRUNG LỚN NHẤT giờ sẽ là TIÊU THỤ NỘI DUNG TIẾNG ANH với cường độ CÀNG NHIỀU CÀNG TỐT nếu muốn giỏi (Cấm xem phụ đề Việt).
 
-**[Đây là bộ thẻ](https://ankivn.com/bo-the/ngoai-ngu/tieng-anh/3000-tu-vung-tieng-anh-thong-dung/) mà bạn cần tải để ôn tập hàng ngày.**
+**[Bấm vào đây để chọn bộ thẻ từ vựng](anki.md) mà bạn cần tải để ôn tập hàng ngày. Có nhiều lựa chọn, tuy không thuộc giáo trình Streamline nhưng về cơ bản vẫn sắp xếp theo độ phổ biến của từ.**
 
 Sau 3000 từ bạn sẽ bắt đầu thực hiện Sentence Mining để ôn từ cho đến mức B2-C2 hoặc đi thi chứng chỉ (Ghi vậy thôi chứ cái này sẽ được ghi cụ thể ở Roadmap sau).
 
