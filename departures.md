@@ -209,140 +209,140 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 
 ### Ngày 21
 - Từ vựng: Đọc qua từ vựng Unit 41, 42 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=41) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=21) trong English Grammar In Use.
+- Ngữ pháp: Bài 20 ở trên đã bao gồm nội dung cho bài 21.
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/6aAJGxVRFq4)
 - Đọc hiểu: [A long life](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#a-long-life)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/NuUPJj_Z_q8)
 
 ### Ngày 22
 - Từ vựng: Đọc qua từ vựng Unit 43, 44 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=43) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=22) trong English Grammar In Use.
+- Ngữ pháp: [Bài 22: PAST PERFECT (I had done)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-22-past-perfect-i-had-done)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/6aAJGxVRFq4)
 - Đọc hiểu: [Barking dog](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#barking-dog)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/gOPmS9IDKMo)
 
 ### Ngày 23
 - Từ vựng: Đọc qua từ vựng Unit 45, 46 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=45) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=23) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 23: PAST PERFECT CONTINUOUS (I had been doing)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-23-past-perfect-continuous-i-had-been-doing)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/6aAJGxVRFq4) và chuyển qua Unit 46 [tại đây](https://www.youtube.com/embed/V1uvVki2vo4)
 - Đọc hiểu: [A lost pencil](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#a-lost-pencil)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/HIWvKfXQseU)
 
 ### Ngày 24
 - Từ vựng: Đọc qua từ vựng Unit 47, 48 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=47) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=24) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 24: HAVE và HAVE GOT](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-24-have-va-have-got)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/V1uvVki2vo4)
 - Đọc hiểu: [A horse rider](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#a-horse-rider)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/Z-wRuUeqPUM)
 
 ### Ngày 25
 - Từ vựng: Đọc qua từ vựng Unit 49, 50 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=49) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=25) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 25: USED TO (I used to do)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-25-used-to-i-used-to-do)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/V1uvVki2vo4)
 - Đọc hiểu: [YELLOW CORN](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#yellow-corn)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/a3vYNDhmvyg)
 
 ### Ngày 26
 - Từ vựng: Đọc qua từ vựng Unit 51, 52 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=51) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=26) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 26: CAN, COULD và BE ABLE TO](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-26-can-could-va-be-able-to)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/mhXVY6nmIIk)
 - Đọc hiểu: [ROW YOUR BOAT](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#row-your-boat)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/HT609Jtk7kE)
 
 ### Ngày 27
 - Từ vựng: Đọc qua từ vựng Unit 53, 54 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=53) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=27) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 27: COULD (could do và could have done)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-27-could-could-do-va-could-have-done)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/mhXVY6nmIIk)
 - Đọc hiểu: [THE JUMPER](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#the-jumper)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/Wl6GdXObW50)
 
 ### Ngày 28
 - Từ vựng: Đọc qua từ vựng Unit 55, 56 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=55) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=28) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 28: MUST và CAN'T](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-28-must-va-cant)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/mhXVY6nmIIk) và chuyển qua Unit 56 [tại đây](https://www.youtube.com/embed/NgesYBRmobs)
 - Đọc hiểu: [A RED BERRY](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#a-red-berry)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/qph458LxR9I)
 
 ### Ngày 29
 - Từ vựng: Đọc qua từ vựng Unit 57, 58 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=57) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=29) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 29: MAY và MIGHT](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-29-may-va-might)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/NgesYBRmobs)
 - Đọc hiểu: [CHOCOLATE MILK](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#chocolate-milk)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/nBuGascikBI)
 
 ### Ngày 30
 - Từ vựng: Đọc qua từ vựng Unit 59, 60 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=59) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=30) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 30: MAY và MIGHT (tương lai)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-30-may-va-might-tuong-lai)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/NgesYBRmobs)
 - Đọc hiểu: [GO TO WORK](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#go-to-work)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/WEoxeIxcQw0)
 
 ### Ngày 31
 - Từ vựng: Đọc qua từ vựng Unit 61, 62 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=61) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=31) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 31: CAN, COULD, MAY và WOULD: yêu cầu, cho phép, đề nghi và mời.](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-31-can-could-may-va-would-yeu-cau-cho-phep-e-nghi-va-moi)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/r_oD_5M3fN8)
 - Đọc hiểu: [FRESH FISH](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#fresh-fish)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/7827tPM4tSE)
 
 ### Ngày 32
 - Từ vựng: Đọc qua từ vựng Unit 63, 64 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=63) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=32) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 32: MUST và HAVE TO](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-32-must-va-have-to)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/r_oD_5M3fN8)
 - Đọc hiểu: [BUY A NEW CAR](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#buy-a-new-car)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/950u2yxDyxM)
 
 ### Ngày 33
 - Từ vựng: Đọc qua từ vựng Unit 65, 66 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=65) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=33) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 33: MUST, MUSTN'T, NEEDN'T và NEEDN'T HAVE](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-33-must-mustnt-neednt-va-neednt-have)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/r_oD_5M3fN8) và Unit 66 [tại đây](https://www.youtube.com/embed/WviXqnL4oCE)
 - Đọc hiểu: [A THIN MAN](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#a-thin-man)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/JA4G9eTjnlo)
 
 ### Ngày 34
 - Từ vựng: Đọc qua từ vựng Unit 67, 68 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=67) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=34) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 34: SHOULD (1)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-34-should-1) (Đã bao gồm cả nội dung phần ngữ pháp bài 35)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/WviXqnL4oCE)
 - Đọc hiểu: [A FUNNY STORY](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#a-funny-story)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/OhzNz7vh6YM)
 
 ### Ngày 35
 - Từ vựng: Đọc qua từ vựng Unit 69, 70 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=69) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=35) trong English Grammar In Use.
+- Ngữ pháp: Ở trên bài 34
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/WviXqnL4oCE)
 - Đọc hiểu: [BUG IN A BOTTLE](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#bug-in-a-bottle)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/tSseSypkT1E)
 
 ### Ngày 36
 - Từ vựng: Đọc qua từ vựng Unit 71, 72 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=71) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=36) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 36: CONDITIONAL SENTENCES (Câu điều kiện) (Hiện tại; tương lai)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-36-conditional-sentences-cau-ieu-kien-hien-tai-tuong-lai)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/zFcYMtvzuGk)
 - Đọc hiểu: [CLEAN HANDS](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#clean-hands)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/vnkeWsnBw_w)
 
 ### Ngày 37
 - Từ vựng: Đọc qua từ vựng Unit 73, 74 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=73) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=37) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 37: Câu với IF và WISH (Hiện tại)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-37-cau-voi-if-va-wish-hien-tai)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/zFcYMtvzuGk)
 - Đọc hiểu: [WHO IS IT?](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#who-is-it)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/psmuEyZGHVs)
 
 ### Ngày 38
 - Từ vựng: Đọc qua từ vựng Unit 75, 76 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=75) và học từ vựng hàng ngày trên Anki.
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=38) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 38: Câu với IF và WISH (quá khứ)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-38-cau-voi-if-va-wish-qua-khu)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/zFcYMtvzuGk) và Unit 76 [tại đây](https://www.youtube.com/embed/-14xItDHQmY)
 - Đọc hiểu: [TRASH DAY](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#trash-day)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/vbSwmvyEQCI)
 
 ### Ngày 39
 - Từ vựng: Đọc qua từ vựng Unit 77, 78 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=77) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=39) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 39: WOULD](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-39-would)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/-14xItDHQmY)
 - Đọc hiểu: [Thử thách 1 - Cuối phần Departures](https://www.newsinlevels.com/products/dogs-help-travelers-level-1/) - Không dài.
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/toCn9-9hXoY)
 
 ### Ngày 40
 - Từ vựng: Đọc qua từ vựng Unit 79, 80 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=79) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=40) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 40: IN CASE (phòng khi)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-40-in-case-phong-khi)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/-14xItDHQmY)
 - Đọc hiểu: [Thử thách 2 - Cuối phần Departures](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#challenge)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/fLEmRt8yp4Q)
