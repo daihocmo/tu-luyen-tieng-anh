@@ -56,6 +56,8 @@ _Các nội dung Tiếng Anh (Comprehensible Input) được chọn ra để b�
 - [Ngày 120](#ngày-120)
 
 
+**Từ đây, các nội dung bạn muốn xem sẽ do bạn TỰ CHỌN, mình cũng đang tìm thêm nội dung để thêm vào như "Gợi ý nội dung" sau vậy nên các phần "Đọc hiểu" và "Nghe hiểu" sẽ được để trống. (Mình sẽ thêm sau nha:>)**
+
 ### Ngày 81
 - Từ vựng: Đọc qua từ vựng Unit 1, 2 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=81) và học từ vựng hàng ngày trên Anki.
 - Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=81) trong English Grammar In Use.
