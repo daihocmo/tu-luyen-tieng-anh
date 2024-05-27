@@ -234,7 +234,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 39](https://www.youtube.com/watch?v=IhFQlrmI0-I)
     + [Streamline English Connections 40](https://www.youtube.com/watch?v=5OeMQpeXzcc)
-- Đọc hiểu: []()
+- Đọc hiểu: [Yoda – the cat with four ears](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#yoda--the-cat-with-four-ears)
 - Nghe hiểu: [English Conversation]()
 
 ### Ngày 61
@@ -243,7 +243,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 41](https://www.youtube.com/watch?v=ddKZlx5sC9k)
     + [Streamline English Connections 42](https://www.youtube.com/watch?v=sNlNHPgVWPM) 
-- Đọc hiểu: []()
+- Đọc hiểu: [Salt Coffee 1](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#salt-coffee)
 - Nghe hiểu: [English Conversation]()
 
 ### Ngày 62
@@ -252,7 +252,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 43](https://www.youtube.com/watch?v=ZYrz1hUtOcc)
     + [Streamline English Connections 44](https://www.youtube.com/watch?v=ED4yceRe20Q)
-- Đọc hiểu: []()
+- Đọc hiểu: [Salt Coffee 2](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#salt-coffee--last-part)
 - Nghe hiểu: [English Conversation]()
 
 ### Ngày 63
@@ -261,7 +261,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + Thiếu 45
     + [Streamline English Connections 46](https://www.youtube.com/watch?v=IbhovVzqPTI)
-- Đọc hiểu: []()
+- Đọc hiểu: [Dating](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#dating)
 - Nghe hiểu: [English Conversation]()
 
 ### Ngày 64
@@ -270,7 +270,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 47](https://www.youtube.com/watch?v=7mAaFLPEVg0) 
     + [Streamline English Connections 48](https://www.youtube.com/watch?v=sPXy_1zmY7k) 
-- Đọc hiểu: []()
+- Đọc hiểu: [Reasons of love](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#reasons-of-love)
 - Nghe hiểu: [English Conversation]()
 
 ### Ngày 65
@@ -279,7 +279,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 49](https://www.youtube.com/watch?v=xQ6B1GL-h6I)
     + [Streamline English Connections 50](https://www.youtube.com/watch?v=vr7VMiiNv1A)
-- Đọc hiểu: []()
+- Đọc hiểu: [Attractiveness in American culture](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#attractiveness-in-american-culture)
 - Nghe hiểu: [English Conversation]()
 
 ### Ngày 66
@@ -288,7 +288,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 51](https://www.youtube.com/watch?v=Nl_FxROInF4)
     + [Streamline English Connections 52](https://www.youtube.com/watch?v=BsZ1TiDi7gg)
-- Đọc hiểu: []()
+- Đọc hiểu: [Love Map](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#love-map)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/HIWJli9_KPo)
 
 ### Ngày 67
@@ -297,7 +297,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + Thiếu bài 53
     + [Streamline English Connections 54](https://www.youtube.com/watch?v=onivLGCDKbQ)
-- Đọc hiểu: []()
+- Đọc hiểu: [This thing called love](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#this-thing-called-love)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/17G5S5VWbN8)
 
 ### Ngày 68
@@ -306,7 +306,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 55](https://www.youtube.com/watch?v=ea7sR00eGOc)
     + [Streamline English Connections 56](https://www.youtube.com/watch?v=JV2dtTeMEFA)
-- Đọc hiểu: []()
+- Đọc hiểu: [Independence Day](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#independence-day)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/Rrer3W_xHsk)
 
 ### Ngày 69
@@ -315,7 +315,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 57](https://www.youtube.com/watch?v=h35M08tmLH0)
     + [Streamline English Connections 58](https://www.youtube.com/watch?v=RifqsVlR0tY) 
-- Đọc hiểu: []()
+- Đọc hiểu: [My dogs](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#my-dogs) 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/wOAVm7HQmbM)
 
 ### Ngày 70
@@ -324,7 +324,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + Thiếu bài 59
     + [Streamline English Connections 60](https://www.youtube.com/watch?v=X_5qCFAZPYk)
-- Đọc hiểu: []()
+- Đọc hiểu: [A poster at work](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#a-poster-at-work)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/2pYMd2biAmw)
 
 ### Ngày 71
@@ -333,7 +333,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 61](https://www.youtube.com/watch?v=-4IDxsHNcY8)
     + [Streamline English Connections 62](https://www.youtube.com/watch?v=cdTtxlHbmb8)
-- Đọc hiểu: []()
+- Đọc hiểu: [Holiday home adverts](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#holiday-home-adverts)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/GqHFI-JgINc)
 
 ### Ngày 72
@@ -342,7 +342,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại:
     + [Streamline English Connections 63](https://www.youtube.com/watch?v=_K6sFMWleHY)
     + [Streamline English Connections 64](https://www.youtube.com/watch?v=fS4C64R23yA)
-- Đọc hiểu: []()
+- Đọc hiểu: [A message to a new friend](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#a-message-to-a-new-friend)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/VfroauyBtuQ)
 
 ### Ngày 73
@@ -351,14 +351,14 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 65](https://www.youtube.com/watch?v=9X1KNQShiIQ) 
     + [Streamline English Connections 66](https://www.youtube.com/watch?v=mCcPbN68uRY)
-- Đọc hiểu: []()
+- Đọc hiểu: [An email from a friend](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#an-email-from-a-friend)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/S0IYnGRCcMw)
 
 ### Ngày 74
 - Từ vựng: Đọc qua từ vựng Unit 67, 68 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=67) và học từ vựng hàng ngày trên Anki
 - Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=74) trong English Grammar In Use.
 - Hội thoại: Không có bài nghe trên Youtube
-- Đọc hiểu: []()
+- Đọc hiểu: [Choosing a conference venue](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#choosing-a-conference-venue)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/-07xzQCaSyg)
 
 ### Ngày 75
