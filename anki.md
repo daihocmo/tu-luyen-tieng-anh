@@ -11,9 +11,11 @@ Một ghi chú nhỏ, Anki chỉ đơn giản là công cụ để ghi nhớ, kh
 _Preview_
 
 **Mặt trước**
+
 ![](./assets/4k-front.png)
 
 **Mặt sau**
+
 ![](./assets/4k-back.png)
 
 ### 3000 từ vựng thông dụng
@@ -25,9 +27,11 @@ _Preview_
 _Preview_
 
 **Mặt trước**
+
 ![](./assets/3k-front.png)
 
 **Mặt sau**
+
 ![](./assets/3k-back.png)
 
 ### Headway
@@ -39,9 +43,11 @@ Có 6 bộ, bạn tải từ bộ 1 đến bộ 4 và lượng từ vựng học
 _Preview_
 
 **Mặt trước**
+
 ![](./assets/headway-2.png)
 
 **Mặt sau**
+
 ![](./assets/headway-1.png)
 
 
@@ -52,7 +58,9 @@ Một lý do cơ bản cho điều này là vì bộ thẻ này quá nặng, đ�
 Nếu bạn vẫn muốn tìm hiểu thêm và tải, [bấm vào đây](https://ankivn.com/bo-the/ngoai-ngu/tieng-anh/close-up-word-list-a1-a2-b1-b1-b2-c1-c2/)
 
 **Mặt trước**
+
 ![](./assets/close-up-front.png)
 
 **Mặt sau**
+
 ![](./assets/close-up.png)
