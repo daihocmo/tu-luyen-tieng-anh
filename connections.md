@@ -62,7 +62,10 @@ _Các nội dung Tiếng Anh (Comprehensible Input) được chọn ra để b�
 - Hội thoại: 
     + [Streamline English Connections 01](https://www.youtube.com/watch?v=BngBp62iuuE)
     + [Streamline English Connections 02](https://www.youtube.com/watch?v=COKcIZhFW34)
-- Đọc hiểu: []()
+- Đọc hiểu: 
+    + [First class travel – level 1](https://www.newsinlevels.com/products/first-class-travel-level-1/) 
+    + [Europeans travel to US again – level 1](https://www.newsinlevels.com/products/europeans-travel-to-us-again-level-1/)
+    + [An airport departures board ](https://learnenglish.britishcouncil.org/skills/reading/a1-reading/airport-departures-board)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/oQG2HcjVPw4)
 
 ### Ngày 42
@@ -71,7 +74,10 @@ _Các nội dung Tiếng Anh (Comprehensible Input) được chọn ra để b�
 - Hội thoại: 
     + [Streamline English Connections 03](https://www.youtube.com/watch?v=Z92cpyULckk)
     + [Streamline English Connections 04](https://www.youtube.com/watch?v=Du6GvIagec0)
-- Đọc hiểu: []()
+- Đọc hiểu: 
+    + [A phone charges in 9 minutes – level 1](https://www.newsinlevels.com/products/a-phone-charges-in-9-minutes-level-1/) 
+    + [iPhone sales go down – level 1](https://www.newsinlevels.com/products/iphone-sales-go-down-level-1/) 
+    + [A phone which you can open – level 1](https://www.newsinlevels.com/products/a-phone-which-you-can-open-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/ObnRbOKX_ow)
 
 ### Ngày 43
@@ -80,7 +86,8 @@ _Các nội dung Tiếng Anh (Comprehensible Input) được chọn ra để b�
 - Hội thoại: 
     + [Streamline English Connections 05](https://www.youtube.com/watch?v=7yXRcrwGpjk)
     + [Streamline English Connections 06](https://www.youtube.com/watch?v=YMoYOOBpRIg)
-- Đọc hiểu: []()
+- Đọc hiểu:
+    + [Business cards](https://learnenglish.britishcouncil.org/skills/reading/a1-reading/business-cards)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/YyunvnkpsXg)
 
 ### Ngày 44
@@ -88,8 +95,10 @@ _Các nội dung Tiếng Anh (Comprehensible Input) được chọn ra để b�
 - Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=44) trong English Grammar In Use.
 - Hội thoại: 
     + [Streamline English Connections 07](https://www.youtube.com/watch?v=kCRqKzwWhyw)
-Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng chính về. Đường dẫn sẽ được cập nhật sau.
-- Đọc hiểu: []()
+    + Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng chính về. Đường dẫn sẽ được cập nhật sau.
+- Đọc hiểu: 
+    + [Brush your teeth](https://www.rong-chang.com/ne/es/es001.htm)
+    + [Watch a DVD](https://www.rong-chang.com/ne/es/es003.htm)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/nEb_Pjj5euM)
 
 ### Ngày 45
@@ -98,7 +107,9 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 09](https://www.youtube.com/watch?v=wY9Y7hK7rRg)
     + [Streamline English Connections 10](https://www.youtube.com/watch?v=cL7LL3iRuzI)
-- Đọc hiểu: []()
+- Đọc hiểu: 
+    + [Get Dressed](https://www.rong-chang.com/ne/es/es004.htm)
+    + [Shave Your Face](https://www.rong-chang.com/ne/es/es014.htm)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/Y70v58AvTps)
 
 
@@ -108,7 +119,9 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 11](https://www.youtube.com/watch?v=dJNHzmC7VPo)
     + [Streamline English Connections 12](https://www.youtube.com/watch?v=JWKX4FyEfqw)
-- Đọc hiểu: []()
+- Đọc hiểu: 
+    + [He forgot again](https://www.rong-chang.com/ne/es/es019.htm)
+    + [A Cup Of Coffee](https://www.rong-chang.com/nse/se/nse171.htm)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/q_RUiGH3B6w)
 
 ### Ngày 47
@@ -117,7 +130,8 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 13](https://www.youtube.com/watch?v=kJRaBq-uXO8)
     + [Streamline English Connections 14](https://www.youtube.com/watch?v=z74EDuQQprQ)
-- Đọc hiểu: []()
+- Đọc hiểu: 
+    + [30 Year Late](https://www.rong-chang.com/ne/es/es010.htm)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/G5LJOC-22-Y)
 
 ### Ngày 48
@@ -126,7 +140,10 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 15](https://www.youtube.com/watch?v=7ocIZwQ8SKM)
     + [Streamline English Connections 16](https://www.youtube.com/watch?v=SqEcwmCytEo)
-- Đọc hiểu: []()
+- Đọc hiểu:
+    + [Boy’s dreams come true – level 1](https://www.newsinlevels.com/products/boys-dreams-come-true-level-1/)
+    + [Dreamy digital world – level 1](https://www.newsinlevels.com/products/dreamy-digital-world-level-1/)
+    + [Outside His Window](https://www.rong-chang.com/nse/se/nse168.htm)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/OVLfQbv8IGw)
 
 ### Ngày 49
@@ -135,7 +152,9 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 17](https://www.youtube.com/watch?v=zJdVX2ZvBho)
     + [Streamline English Connections 18](https://www.youtube.com/watch?v=ECfjxN_VkL8)
-- Đọc hiểu: []()
+- Đọc hiểu:
+    + [Nobel Chemistry Prize – level 1](https://www.newsinlevels.com/products/nobel-chemistry-prize-level-1/)
+    + [Museum of Illusions – level 1](https://www.newsinlevels.com/products/museum-of-illusions-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/3t9_3oIOxAE)
 
 ### Ngày 50
@@ -144,7 +163,9 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 19](https://www.youtube.com/watch?v=yqKx3YizEAE)
     + [Streamline English Connections 20](https://www.youtube.com/watch?v=lLysVmTxUuM) 
-- Đọc hiểu: []()
+- Đọc hiểu: 
+    + [The taste of insects – level 1](https://www.newsinlevels.com/products/the-taste-of-insects-level-1/)
+    + [The future of a steak – level 1](https://www.newsinlevels.com/products/the-future-of-a-steak-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/sC2DvHvK_p0)
 
 ### Ngày 51
@@ -153,7 +174,8 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 21](https://www.youtube.com/watch?v=il9oLubXK4k)
     + [Streamline English Connections 22](https://www.youtube.com/watch?v=h8MeC55Vmug)
-- Đọc hiểu: []()
+- Đọc hiểu: 
+    + [Fly Away](https://www.rong-chang.com/nse/se/nse021.htm)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/yRge_YANbUQ)
 
 ### Ngày 52
@@ -162,7 +184,9 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 23](https://www.youtube.com/watch?v=fR5YmzNH9Dc) 
     + Chưa có bài 24
-- Đọc hiểu: []()
+- Đọc hiểu: 
+    + [Space elevator – level 1](https://www.newsinlevels.com/products/space-elevator-level-1/)
+    + [China makes cheap green products – level 1](https://www.newsinlevels.com/products/china-makes-cheap-green-products-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/4o7YMe3zLtQ)
 
 ### Ngày 53
@@ -171,7 +195,9 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 25](https://www.youtube.com/watch?v=w3gqPDAYW2o)
     + [Streamline English Connections 26](https://www.youtube.com/watch?v=nofQxgniYOc)
-- Đọc hiểu: []()
+- Đọc hiểu:
+    + [Coffee Heats up Homes – level 1](https://www.newsinlevels.com/products/coffee-heats-up-homes-level-1/)
+    + [Coffee Coca-Cola – level 1](https://www.newsinlevels.com/products/coffee-coca-cola-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/9CvW-7vBvKI)
 
 ### Ngày 54
@@ -180,7 +206,9 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 27](https://www.youtube.com/watch?v=XkzZ9CB8rt0) 
     + [Streamline English Connections 28](https://www.youtube.com/watch?v=RnLspprBs8Y) 
-- Đọc hiểu: []()
+- Đọc hiểu: 
+    + [How Video Calling Started – level 1](https://www.newsinlevels.com/products/how-video-calling-started-level-1/)
+    + [Google’s First Phone – level 1](https://www.newsinlevels.com/products/google-s-first-phone-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/yj0Yfr2vV5k)
 
 ### Ngày 55
@@ -189,7 +217,9 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 29](https://www.youtube.com/watch?v=qgc5AWQlwLA)
     + [Streamline English Connections 30](https://www.youtube.com/watch?v=_-QgJ1HTB0Q) 
-- Đọc hiểu: []()
+- Đọc hiểu: 
++ [Dogs in Japanese offices – level 1](https://www.newsinlevels.com/products/dogs-in-japanese-offices-level-1/)
++ [Britain’s Post Office scandal – level 1](https://www.newsinlevels.com/products/britains-post-office-scandal-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/5vyAGyeJgts)
 
 ### Ngày 56
@@ -198,7 +228,9 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 31](https://www.youtube.com/watch?v=cLwfnAtU3Sg)
     + [Streamline English Connections 32](https://www.youtube.com/watch?v=u_1ig2Cm2MU)
-- Đọc hiểu: []()
+- Đọc hiểu: 
+    + [Asthma from Traffic – level 1](https://www.newsinlevels.com/products/asthma-from-traffic-level-1/)
+    + [Koala Stops the Traffic – level 1](https://www.newsinlevels.com/products/koala-stops-the-traffic-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/N44z11tsO3M)
 
 ### Ngày 57
@@ -207,7 +239,10 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 33](https://www.youtube.com/watch?v=DaYYWSP3QRU) 
     + [Streamline English Connections 34](https://www.youtube.com/watch?v=G0YmnLFrE-A)
-- Đọc hiểu: []()
+- Đọc hiểu: 
+    + [Western Australia Storm – level 1](https://www.newsinlevels.com/products/western-australia-storm-level-1/)
+    + [Man on Sydney Opera House – level 1](https://www.newsinlevels.com/products/man-on-sydney-opera-house-level-1/)
+    + [Cat is sold with a house – level 1](https://www.newsinlevels.com/products/cat-is-sold-with-a-house-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/Hc-BClOPdRU)
 
 ### Ngày 58
@@ -216,8 +251,10 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 35](https://www.youtube.com/watch?v=Q-FBQ2YYJnA)
     + [Streamline English Connections 36](https://www.youtube.com/watch?v=whvy9RAVgtI) 
-- Đọc hiểu: []()
-- Nghe hiểu: [English Conversation]()
+- Đọc hiểu: 
+    + [A woman spends 14 hours on top of her car – level 1](https://www.newsinlevels.com/products/a-woman-spends-14-hours-on-top-of-her-car-level-1/)
+    + [Why people in Sweden do not smoke – level 1](https://www.newsinlevels.com/products/why-people-in-sweden-do-not-smoke-level-1/)
+- Nghe hiểu: [????](https://youtu.be/dzA7nL6cicY)
 
 ### Ngày 59
 - Từ vựng: Đọc qua từ vựng Unit 37, 38 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=37) và học từ vựng hàng ngày trên Anki
@@ -225,8 +262,12 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 37](https://www.youtube.com/watch?v=r74Fa_nreHs) 
     + [Streamline English Connections 38](https://www.youtube.com/watch?v=pShwy9QhHV4)
-- Đọc hiểu: []()
-- Nghe hiểu: [English Conversation]()
+- Đọc hiểu: 
+    + [Ramadan ends – level 1](https://www.newsinlevels.com/products/ramadan-ends-level-1/)
+    + [Unlimited vacation – level 1](https://www.newsinlevels.com/products/unlimited-vacation-level-1/)
+- Nghe hiểu: 
+    + [Summer](https://youtu.be/SbKOqfbsnd4)
+    + [Travel](https://youtu.be/W-eJIgTrBTo)
 
 ### Ngày 60
 - Từ vựng: Đọc qua từ vựng Unit 39, 40 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=39) và học từ vựng hàng ngày trên Anki
@@ -235,7 +276,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
     + [Streamline English Connections 39](https://www.youtube.com/watch?v=IhFQlrmI0-I)
     + [Streamline English Connections 40](https://www.youtube.com/watch?v=5OeMQpeXzcc)
 - Đọc hiểu: [Yoda – the cat with four ears](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#yoda--the-cat-with-four-ears)
-- Nghe hiểu: [English Conversation]()
+- Nghe hiểu: [Making Suggestion is easy](https://youtu.be/S7532uo3Z3Y)
 
 ### Ngày 61
 - Từ vựng: Đọc qua từ vựng Unit 41, 42 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=41) và học từ vựng hàng ngày trên Anki
@@ -244,7 +285,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
     + [Streamline English Connections 41](https://www.youtube.com/watch?v=ddKZlx5sC9k)
     + [Streamline English Connections 42](https://www.youtube.com/watch?v=sNlNHPgVWPM) 
 - Đọc hiểu: [Salt Coffee 1](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#salt-coffee)
-- Nghe hiểu: [English Conversation]()
+- Nghe hiểu: [English Conversation](https://youtu.be/M380ySm1vOk?list=PLhPfBpTj6VpS0Ph5TmDIXODyCM6jAq4EC)
 
 ### Ngày 62
 - Từ vựng: Đọc qua từ vựng Unit 43, 44 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=43) và học từ vựng hàng ngày trên Anki
@@ -253,7 +294,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
     + [Streamline English Connections 43](https://www.youtube.com/watch?v=ZYrz1hUtOcc)
     + [Streamline English Connections 44](https://www.youtube.com/watch?v=ED4yceRe20Q)
 - Đọc hiểu: [Salt Coffee 2](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#salt-coffee--last-part)
-- Nghe hiểu: [English Conversation]()
+- Nghe hiểu: [English Conversation](https://youtu.be/tqTJAXfzD0E?list=PLhPfBpTj6VpS0Ph5TmDIXODyCM6jAq4EC)
 
 ### Ngày 63
 - Từ vựng: Đọc qua từ vựng Unit 45, 46 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=45) và học từ vựng hàng ngày trên Anki
@@ -262,7 +303,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
     + Thiếu 45
     + [Streamline English Connections 46](https://www.youtube.com/watch?v=IbhovVzqPTI)
 - Đọc hiểu: [Dating](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#dating)
-- Nghe hiểu: [English Conversation]()
+- Nghe hiểu: [Can I help you?](https://youtu.be/h7pIYycJRqE)
 
 ### Ngày 64
 - Từ vựng: Đọc qua từ vựng Unit 47, 48 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=47) và học từ vựng hàng ngày trên Anki
@@ -271,7 +312,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
     + [Streamline English Connections 47](https://www.youtube.com/watch?v=7mAaFLPEVg0) 
     + [Streamline English Connections 48](https://www.youtube.com/watch?v=sPXy_1zmY7k) 
 - Đọc hiểu: [Reasons of love](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#reasons-of-love)
-- Nghe hiểu: [English Conversation]()
+- Nghe hiểu: [English Conversation](https://youtu.be/6x5k1A8kbo0)
 
 ### Ngày 65
 - Từ vựng: Đọc qua từ vựng Unit 49, 50 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=49) và học từ vựng hàng ngày trên Anki
@@ -280,7 +321,7 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
     + [Streamline English Connections 49](https://www.youtube.com/watch?v=xQ6B1GL-h6I)
     + [Streamline English Connections 50](https://www.youtube.com/watch?v=vr7VMiiNv1A)
 - Đọc hiểu: [Attractiveness in American culture](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path2.html#attractiveness-in-american-culture)
-- Nghe hiểu: [English Conversation]()
+- Nghe hiểu: [Asking for Direction](https://youtu.be/DPYJQSA-x50)
 
 ### Ngày 66
 - Từ vựng: Đọc qua từ vựng Unit 51, 52 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=51) và học từ vựng hàng ngày trên Anki
@@ -376,7 +417,9 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 71](https://www.youtube.com/watch?v=YfpVWYWRMs0)
     + Thiếu 72
-- Đọc hiểu: []()
+- Đọc hiểu: 
+    + [Native Americans win in North Dakota – level 1](https://www.newsinlevels.com/products/native-americans-win-in-north-dakota-level-1/)
+    + [A ship in trouble – level 1](https://www.newsinlevels.com/products/a-ship-in-trouble-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/8z-GQ9VOjLI)
 
 ### Ngày 77
@@ -385,7 +428,9 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 73](https://www.youtube.com/watch?v=h3bnDojBm1c)
     + [Streamline English Connections 74](https://www.youtube.com/watch?v=5TLZUOc3MA0)
-- Đọc hiểu: []()
+- Đọc hiểu: 
+    + [Killer's Message](https://www.newsinlevels.com/products/killers-message-level-1/)
+    + [Murderer climbs over prison walls – level 1](https://www.newsinlevels.com/products/murderer-climbs-over-prison-walls-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/A9XOzBk3PxQ)
 
 ### Ngày 78
@@ -394,7 +439,9 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 75](https://www.youtube.com/watch?v=luR0j8G29MM)
     + [Streamline English Connections 76](https://www.youtube.com/watch?v=j_lOCZ8kotM) 
-- Đọc hiểu: []()
+- Đọc hiểu: 
+    + [Genetic tests – level 1](https://www.newsinlevels.com/products/genetic-tests-level-1/)
+    + [First sustainable fuel flight – level 1](https://www.newsinlevels.com/products/first-sustainable-fuel-flight-level-1)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/k8imxcuOnJk)
 
 ### Ngày 79
@@ -403,7 +450,9 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Hội thoại: 
     + [Streamline English Connections 77](https://www.youtube.com/watch?v=d_NANvUyVKA) 
     + Thiếu bài 78 trên Youtube.
-- Đọc hiểu: []()
+- Đọc hiểu: 
+    + [Supermarkets go green](https://www.newsinlevels.com/products/supermarkets-go-green-level-1/)  
+    + [A Robotic Hand at Supermarkets](https://www.newsinlevels.com/products/a-robotic-hand-at-supermarkets-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/8_c0YgLOcdo)
 
 ### Ngày 80
@@ -411,6 +460,8 @@ Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng c
 - Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=80) trong English Grammar In Use.
 - Hội thoại: 
     + [Streamline English Connections 79](https://www.youtube.com/watch?v=qEVpJ-XJUrk)
-
-- Đọc hiểu: []()
+    + Không có bài 80 đâu :<.
+- Đọc hiểu:
+    + [Paris saves energy – level 1](https://www.newsinlevels.com/products/paris-saves-energy-level-2/)
+    + [Fight against book bans in the US](https://www.newsinlevels.com/products/fight-against-book-bans-in-the-us-level-1/)
 - Nghe hiểu: [Bài đặc biệt]()
