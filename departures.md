@@ -65,35 +65,35 @@ _Trong 20 ngày đầu sẽ chưa yêu cầu đọc, khoảng thời gian này v
 
 ### Ngày 1
 - Từ vựng: Đọc qua từ vựng Unit 1, 2 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=1) và học từ vựng hàng ngày trên Anki.
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=1) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 1: PRESENT CONTINUOUS (I am doing)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-1-present-continuous-i-am-doing)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/SyS0um2B42I)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/m1-Bx3h4cio)
 
 ### Ngày 2
 - Từ vựng: Đọc qua từ vựng Unit 3, 4 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=3) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=2) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 2: SIMPLE PRESENT (I do)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-2-simple-present-i-do)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/SyS0um2B42I)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation 2](https://www.youtube.com/embed/4N9Y47aVTHM)
 
 ### Ngày 3
 - Từ vựng: Đọc qua từ vựng Unit 5, 6 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=5) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=3) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 3: PRESENT CONTINUOUS (I am doing) hay SIMPLE PRESENT (I do)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-3-present-continuous-i-am-doing-hay-simple-present-i-do)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/SyS0um2B42I) và chuyển qua bài 6 [tại đây](https://www.youtube.com/embed/CB3m8fnzYpo)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation 3](https://www.youtube.com/embed/5xMMgxgAgLk)
 
 ### Ngày 4
 - Từ vựng: Đọc qua từ vựng Unit 7, 8 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=7) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=4) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 4: PRESENT TENSES (I am doing/l do) với nghĩa tương lai](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-4-present-tenses-i-am-doingl-do-voi-nghia-tuong-lai)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/CB3m8fnzYpo)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation 4](https://www.youtube.com/embed/oBA6mrpJFBM)
 
 ### Ngày 5
 - Từ vựng: Đọc qua từ vựng Unit 9, 10 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=9) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=5) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 5: GOING TO (I am going to do)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-5-going-to-i-am-going-to-do)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/CB3m8fnzYpo)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation 5](https://www.youtube.com/embed/JYQir4QzIjA)
@@ -101,98 +101,98 @@ _Trong 20 ngày đầu sẽ chưa yêu cầu đọc, khoảng thời gian này v
 
 ### Ngày 6
 - Từ vựng: Đọc qua từ vựng Unit 11, 12 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=11) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=6) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 6: SIMPLE FUTURE (will)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-6-simple-future-will)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/wLxbRrEVu7E)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation 6](https://www.youtube.com/embed/L5Eoq057OAM)
 
 ### Ngày 7
 - Từ vựng: Đọc qua từ vựng Unit 13, 14 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=13) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=7) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 7: SIMPLE FUTURE (will) (2)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-7-simple-future-will-2)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/wLxbRrEVu7E)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation 7](https://www.youtube.com/embed/X9C_yKy_qro)
 
 ### Ngày 8
 - Từ vựng: Đọc qua từ vựng Unit 15, 16 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=15) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=8) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 8: WILL hay GOING TO?](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-8-will-hay-going-to)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/wLxbRrEVu7E) và chuyển qua Unit 16 [tại đây](https://www.youtube.com/embed/KBkgl_aeLcA)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation 8](https://www.youtube.com/embed/fmJDzyTQhbA)
 
 ### Ngày 9
 - Từ vựng: Đọc qua từ vựng Unit 17, 18 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=17) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=9) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 9: Các câu VỚI WHEN và IF](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-9-cac-cau-voi-when-va-if)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/KBkgl_aeLcA)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation 9](https://www.youtube.com/embed/h8XbayIhHjU)
 
 ### Ngày 10
 - Từ vựng: Đọc qua từ vựng Unit 19, 20 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=19) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=10) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 10: FUTURE CONTINUOUS (will be doing) và FUTURE PERFECT (will have done)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-10-future-continuous-will-be-doing-va-future-perfect-will-have-done)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/KBkgl_aeLcA)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation0](https://www.youtube.com/embed/wQLt1BuXk08)
 
 ### Ngày 11
 - Từ vựng: Đọc qua từ vựng Unit 21, 22 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=21) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=11) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 11: SIMPLE PAST (I did)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-11-simple-past-i-did)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/HdFHzZtjeNs)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation1](https://www.youtube.com/embed/qdcCe3NYQB8)
 
 ### Ngày 12
 - Từ vựng: Đọc qua từ vựng Unit 23, 24 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=23) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=12) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 12: PAST CONTINUOUS (thì Quá khứ tiếp diễn) (I was doing)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-12-past-continuous-thi-qua-khu-tiep-dien-i-was-doing)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/HdFHzZtjeNs)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation2](https://www.youtube.com/embed/DQBtlRv4SeA)
 
 ### Ngày 13
 - Từ vựng: Đọc qua từ vựng Unit 25, 26 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=25) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=13) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 13: PRESENT PERFECT (thì Hiện tại hoàn thành) (I have done) (1)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-13-present-perfect-thi-hien-tai-hoan-thanh-i-have-done-1)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/HdFHzZtjeNs) và chuyển qua Unit 26 [tại đây](https://www.youtube.com/embed/akf6y0UQUS8)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation3](https://www.youtube.com/embed/1H9_coD7WhQ)
 
 ### Ngày 14
 - Từ vựng: Đọc qua từ vựng Unit 27, 28 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=27) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=14) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 14: PRESENT PERFECT (thì Hiện tại hoàn thành) (2)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-14-present-perfect-thi-hien-tai-hoan-thanh-2)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/akf6y0UQUS8)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation4](https://www.youtube.com/embed/3PtdNEJwYFk)
 
 ### Ngày 15
 - Từ vựng: Đọc qua từ vựng Unit 29, 30 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=29) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [http://lopngoaingu.com/grammar-in-use/index.php?page=15](http://lopngoaingu.com/grammar-in-use/index.php?page=15) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 15: PRESENT PERFECT](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-15-present-perfect)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/akf6y0UQUS8)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation5](https://www.youtube.com/embed/7cGTTWJgIVA)
 
 ### Ngày 16
 - Từ vựng: Đọc qua từ vựng Unit 31, 32 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=31) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=16) trong English Grammar In Use.
+- Ngữ pháp: Ngữ pháp: [BÀI 15: PRESENT PERFECT](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-15-present-perfect)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/dM-LiQjtP0Y)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation6](https://www.youtube.com/embed/qmza9S7A_2Q)
 
 ### Ngày 17
 - Từ vựng: Đọc qua từ vựng Unit 33, 34 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=33) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=17) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 17: PRESENT PERFECT CONTINUOUS (I have been doing) hay PRESENT PERFECT (I have done)?](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-17-present-perfect-continuous-i-have-been-doing-hay-present-perfect-i-have-done)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/dM-LiQjtP0Y)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation7](https://www.youtube.com/embed/t9GuUGY-pNw)
 
 ### Ngày 18
 - Từ vựng: Đọc qua từ vựng Unit 35, 36 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=35) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=18) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 18: PRESENT PERFECT và PRESENT PERFECT CONTINUOUS với how long, for và since](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-18-present-perfect-va-present-perfect-continuous-voi-how-long-for-va-since)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/dM-LiQjtP0Y) và chuyển qua Unit 36 [tại đây](https://www.youtube.com/embed/YvTnLIyJxDI)
 - Đọc hiểu:  
 - Nghe hiểu: [English Conversation8](https://www.youtube.com/embed/De0OCxtCy_M)
 
 ### Ngày 19
 - Từ vựng: Đọc qua từ vựng Unit 37, 38 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=37) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=19) trong English Grammar In Use.
+- Ngữ pháp: - [BÀI 19: PRESENT PERFECT với how long, và SIMPLE PAST với when, SINCE và FOR](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-19-present-perfect-voi-how-long-va-simple-past-voi-when-since-va-for)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/YvTnLIyJxDI)
 - Đọc hiểu: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/Y7DIw84LOEU)
@@ -202,7 +202,7 @@ _Trong 20 ngày đầu sẽ chưa yêu cầu đọc, khoảng thời gian này v
 Time to learn how to read in English. (When reading on the web browser, you should probably have a pop-up dictionary extension)
 
 - Từ vựng: Đọc qua từ vựng Unit 39, 40 trên trang "Lớp ngoại ngữ" [tại đây](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=39) và học từ vựng hàng ngày trên Anki
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=20) trong English Grammar In Use.
+- Ngữ pháp: [BÀI 20: PRESENT PERFECT (I have done) hay SIMPLE PAST (I did) (1)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-20-present-perfect-i-have-done-hay-simple-past-i-did-1)
 - Hội thoại: [Nghe tại đường dẫn này](https://www.youtube.com/embed/YvTnLIyJxDI)
 - Đọc hiểu: [A good boy](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#a-good-boy)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/B3rWU6_FfyM)
