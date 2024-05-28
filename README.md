@@ -1,12 +1,12 @@
 Tham gia Discord Server [tại đây](https://discord.gg/fbHbQSwzpD).
 
+
+
 Hướng dẫn học Tiếng Anh từ con số 0 cho người mất gốc, người không biết gì, nhưng không phải cho người lười.
 
 Giáo trình được truyền cảm hứng rất lớn bởi lộ trình học Tiếng Nhật tương tự của CLAWDIRE trên Voz. Bạn có thể đọc [tại đây](https://voz.vn/t/tong-hop-tat-tan-tat-ve-tieng-nhat-tai-lieu-phuong-phap-hoc-lo-trinh-noi-hoc.18585/).
 
-Tổng thời lượng cho cả 4 cuốn này sẽ rơi vào khoảng 150 đến 160 ngày cộng với một số phần khác nữa nên sẽ rơi vào khoảng 6 tháng (Nếu bạn học y hệt lộ trình của mình đồng thời có dành thời gian nghe và đọc các tài nguyên trên Internet bằng Tiếng Anh nữa). 
 
-Bạn hoàn toàn có thể bỏ qua những bài bất kì trong Streamline nếu bạn thấy mình đã hiểu/biết từ vựng rồi hay ngữ pháp (Dù vậy nhưng cá nhân tớ vẫn gợi ý nên đọc lại từ English Grammar In Use, giáo trình ngữ pháp mà mình dùng trong chương trình này). Nhưng còn các phần khác như nghe hiểu, đọc hiểu là bắt buộc. 
 
 ### Mục lục
 
@@ -15,7 +15,7 @@ Bạn hoàn toàn có thể bỏ qua những bài bất kì trong Streamline n�
 - [Tổng quan chương trình](#tổng-quan-chương-trình)
     - [Từ vựng](#từ-vựng)
     - [Ngữ pháp](#ngữ-pháp)
-    - [Hội thoại](#hội-thoại)
+    - [Nghe hiểu](#hội-thoại)
     - [Đọc hiểu](#đọc-hiểu)
     - [Từ điển](#từ-điển)
     - [Một số lưu ý khác](#một-số-lưu-ý-khác)
@@ -33,10 +33,6 @@ Bạn hoàn toàn có thể bỏ qua những bài bất kì trong Streamline n�
 ### Mở đầu
 
 Chương trình học này sẽ sử dụng sườn giáo trình Streamline English. Các phần liên quan đến Streamline trong lộ trình học bạn hoàn toàn có thể bỏ qua (Hội thoại, bài hàng ngày) và tập trung thật nhiều thời gian tiêu thụ nội dung Tiếng Anh càng nhiều càng tốt.
-
-Nhưng chúng ta chỉ nghe phần hội thoại từ cuốn đó (rất ngắn), còn lại, ta sẽ tự học thêm khá nhiều thứ khác từ nhiều nguồn trên Internet do mình tự tổng hợp. 
-
-Một trong những đích hướng đến của chương trình này là tiêu thụ càng nhiều [Comprehensible Input](https://daihocmo.github.io/tieng-anh/dau-vao/) (Đầu vào dễ hiểu).
 
 Trong giai đoạn mới học, ít nhất cho đến khi đạt B2, thì việc nói hoặc cố nghĩ các câu trong đầu sẽ bị cấm (Do Tiếng Anh chưa vững, nói ra sẽ bị sai, mà sai thành thói quen thì khó sửa, nên muốn Tiếng Anh của mình đúng từ đầu mình cần đọc và nghe nhiều mẫu câu Tiếng Anh đúng).
 
@@ -59,12 +55,6 @@ Chương trình này không tốn của bạn một xu, bạn chỉ cần có k�
 
 ### Tổng quan chương trình
 
-Chương trình này yêu cầu bạn thực hiện hàng ngày, không được nghỉ quá 2 ngày liên tiếp để có kết quả tốt, tăng khả năng nhớ từ dài hạn và đắm chìm mình vào Tiếng Anh trong một khoảng thời gian tương đối.
-
-_Mẹo: Nên tải nội dung tiêu thụ về máy để xem, tập trung hơn và ít bị gây xao nhãng hơn do không còn/cần Internet nữa._
-
-Chương trình sẽ tối ưu nhất khi bạn dùng máy tính để học (Sử dụng Anki, điều hướng các bài giảng trên trình duyệt, năng suất và tập trung hơn khi sử dụng điện thoại học). Bạn không nhất thiết phải có một Laptop đắt tiền có RGB và cấu hình khủng, mình hiện tại cũng học sử dụng Laptop Thinkpad T400 (Cài Linux).
-
 #### Từ vựng
 
 Bạn sẽ học từ vựng hàng ngày khoảng từ 20 đến 30 từ vựng thông qua [Anki](https://apps.ankiweb.net/), và trong khoảng 150 ngày bạn sẽ hoàn thiện được 3000 từ. 
@@ -77,7 +67,7 @@ Việc học cách sử dụng Anki là BẮT BUỘC. Rất nhiều người đ�
 
 Một điều BẮT BUỘC khác là phải sử dụng hàng ngày, không được mất quá một ngày vì như thế sẽ ảnh hưởng đến khả năng nhớ từ dài hạn.
 
-**[Bấm vào đây để chọn bộ thẻ từ vựng](anki.md) mà bạn cần tải để ôn tập hàng ngày. Có nhiều lựa chọn, tuy không thuộc giáo trình Streamline nhưng về cơ bản vẫn sắp xếp theo độ phổ biến của từ.**
+Thẻ ở đây cần tự làm, bạn cần tự thêm sau mỗi bài học.
 
 #### Ngữ pháp
 
