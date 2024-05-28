@@ -12,11 +12,11 @@ _Preview_
 
 **Mặt trước**
 
-![](./assets/4k-front.png)
+![](./assets/4k-front.webp)
 
 **Mặt sau**
 
-![](./assets/4k-back.png)
+![](./assets/4k-back.webp)
 
 ### 3000 từ vựng thông dụng
 
@@ -28,11 +28,11 @@ _Preview_
 
 **Mặt trước**
 
-![](./assets/3k-front.png)
+![](./assets/3k-front.webp)
 
 **Mặt sau**
 
-![](./assets/3k-back.png)
+![](./assets/3k-back.webp)
 
 ### Headway
 
@@ -44,11 +44,11 @@ _Preview_
 
 **Mặt trước**
 
-![](./assets/headway-2.png)
+![](./assets/headway-2.webp)
 
 **Mặt sau**
 
-![](./assets/headway-1.png)
+![](./assets/headway-1.webp)
 
 
 ### Close-up (Không khuyến khích)
@@ -59,8 +59,8 @@ Nếu bạn vẫn muốn tìm hiểu thêm và tải, [bấm vào đây](https:/
 
 **Mặt trước**
 
-![](./assets/close-up-front.png)
+![](./assets/close-up-front.webp)
 
 **Mặt sau**
 
-![](./assets/close-up.png)
+![](./assets/close-up.webp)
