@@ -2,7 +2,6 @@
 
 ## Thông báo
 
-
 1. [Phần 1: Departures](#departures)
 2. [Phần 2: Connections](#connections)
 3. [Phần 3: Destinations](#destinations)

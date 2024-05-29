@@ -106,7 +106,7 @@ Một yêu cầu nhỏ nữa là, cấm được làm bài tập ngữ pháp, l�
 
 ### Tự học hàng ngày
 
-Để theo lộ trình này, bạn hãy kiểm tra lộ trình hàng ngày mà mình đã viết sẵn [ở đây](). Các lựa chọn đã được làm sẵn cho bạn và việc duy nhất bạn cần làm là thực hiện thói quen học tập hàng ngày.
+Để theo lộ trình này, bạn hãy kiểm tra lộ trình hàng ngày mà mình đã viết sẵn [ở đây](lo-trinh.md). Các lựa chọn đã được làm sẵn cho bạn và việc duy nhất bạn cần làm là thực hiện thói quen học tập hàng ngày.
 
 Chương trình này có thể không phù hợp với tất cả mọi người và được viết hoàn toàn bởi góc nhìn và cách hiểu cá nhân mình. Vậy nên, nếu có bất kì góp ý nào, đừng ngại bình luận ở trong Thread chính của lộ trình trong Voz Forum.
 
