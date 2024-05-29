@@ -1,12 +1,8 @@
 Tham gia Discord Server [tại đây](https://discord.gg/fbHbQSwzpD).
 
-
-
 Hướng dẫn học Tiếng Anh từ con số 0 cho người mất gốc, người không biết gì, nhưng không phải cho người lười.
 
 Giáo trình được truyền cảm hứng rất lớn bởi lộ trình học Tiếng Nhật tương tự của CLAWDIRE trên Voz. Bạn có thể đọc [tại đây](https://voz.vn/t/tong-hop-tat-tan-tat-ve-tieng-nhat-tai-lieu-phuong-phap-hoc-lo-trinh-noi-hoc.18585/).
-
-
 
 ### Mục lục
 
