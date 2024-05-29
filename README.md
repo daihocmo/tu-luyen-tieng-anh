@@ -4,6 +4,8 @@ Hướng dẫn học Tiếng Anh từ con số 0 cho người mất gốc, ngư�
 
 Giáo trình được truyền cảm hứng rất lớn bởi lộ trình học Tiếng Nhật tương tự của CLAWDIRE trên Voz. Bạn có thể đọc [tại đây](https://voz.vn/t/tong-hop-tat-tan-tat-ve-tieng-nhat-tai-lieu-phuong-phap-hoc-lo-trinh-noi-hoc.18585/).
 
+Mình muốn gửi lời cảm ơn đến: **dutchcourage** và **T.H.H** đã nhận xét và đóng góp rất nhiều để sửa lại lộ trình học.
+
 ### Mục lục
 
 - [Giới thiệu về lộ trình](#mở-đầu)
@@ -21,7 +23,13 @@ Giáo trình được truyền cảm hứng rất lớn bởi lộ trình học 
 
 ### Mở đầu
 
-Chương trình học này sẽ sử dụng giáo trình Streamline English. 
+Chương trình học này sẽ sử dụng 
+
+- Phần từ vừng + mẫu câu + hội thoại: giáo trình [Streamline English](). 
+- Phần ngữ pháp: [Essential Grammar In Use](https://archive.org/download/EssentialGrammarInUse4thEditionByR.Murphy/Essential%20Grammar%20in%20Use%204th%20Edition%20by%20R.%20Murphy.pdf)
+- Phần nghe hiểu: Bài nghe trên Youtube. 
+
+Đừng lo lắng vì giáo trình hoàn toàn bằng Tiếng Anh, người bản xứ cũng bị bao quanh bởi Tiếng Anh đủ lâu mới có thể sử dụng được ngoại ngữ thành thạo. Đồng thời, Tiếng Anh được sử dụng trong cuốn sách cho người học thường rất đơn giản.
 
 Tổng cộng cả 4 cuốn là gần 320 Units (Bài học), và mỗi ngày ta sẽ học 2 bài (Mỗi bài của Streamline tương đối ngắn) 
 
@@ -50,11 +58,9 @@ Tại sao cần tự làm thẻ thay vì sử dụng một bộ thẻ làm sẵn
 
 #### Ngữ pháp
 
-Ngữ pháp thì bọn mình sẽ học luôn từ cuốn Tiếng Anh thực dụng (English Grammar In Use). Một lựa chọn khác bạn có thể cân nhắc là Essential Grammar In Use (Được viết bằng Tiếng Anh dễ hiểu, nếu bạn muốn thử thách đồng thời hiểu sâu hơn về Tiếng Anh)
+Phần ngữ pháp thay vì sử dụng cuốn English Grammar In Use như lộ trình cũ, cuốn  [Essential Grammar In Use](https://archive.org/download/EssentialGrammarInUse4thEditionByR.Murphy/Essential%20Grammar%20in%20Use%204th%20Edition%20by%20R.%20Murphy.pdf) (Được gợi ý bởi **dutchcourage** ở đầu Thread) sẽ là một lựa chọn thay thế phù hợp hơn.
 
-Bao gồm 130 bài, nên mỗi ngày ta sẽ học một bài.
-
-Đọc English Grammar In Use bản Tiếng Việt đã được số hóa [tại đây](https://daihocmo.github.io/tieng-anh/grammar-guide/) 
+Bao gồm 115 bài, nên mỗi ngày ta sẽ học một bài. Mình sẽ để kèm đường dẫn đến bài giảng về chủ đề ngữ pháp, bằng Tiếng Anh =D
 
 Những gì bạn cần làm trong mỗi bài học:
 

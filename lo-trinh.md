@@ -4,23 +4,18 @@
 
 Các lựa chọn đã được làm sẵn cho bạn. 
 
-1. [Phần 1: Departures]()
-2. [Phần 2: Connections]()
-3. [Phần 3: Destinations]()
-4. [Phần 4: Directions]()
+1. [Phần 1: Departures](#departures)
+2. [Phần 2: Connections](#connections)
+3. [Phần 3: Destinations](#destinations)
+4. [Phần 4: Directions](#directions)
 
-## Phần 1 - Departures
+### Tải toàn bộ giáo trình
 
-### Tài nguyên học
+- [Giáo trình và Audio cuốn Departures](http://www.mediafire.com/file/f07ana7t24d90h1/1st_Steamline+english+Departures.zip)
+- [Giáo trình và Audio cuốn Connections](http://www.mediafire.com/file/qwwpbdc9ibi36av/2st_Steamline+english+Connections.zip)
 
-#### Streamline
+## Departures
 
-- [Giáo trình và Audio cuốn Departures](http://www.mediafire.com/file/f07ana7t24d90h1/1st_Steamline+english+Departures.zip) - Tổng hợp toàn bộ sách dạng PDF và tệp âm thanh
-- [Danh sách bài nghe](https://www.youtube.com/playlist?list=PL1E4A30693094D8AD) - Mình đã chia toàn bộ cho từng Bài ở bên dưới nên cứ đến Bài nào là bạn nghe thôi
-- [Sách online](http://lopngoaingu.com/listening/streamline-english/Departure/index.php) - Đọc trực tiếp cuốn này trên Lopngoaingu. Gợi ý nên tải tệp sách về
-
-
-### Lộ trình học
 - [Bài 1](#bài-1)
 - [Bài 2](#bài-2)
 - [Bài 3](#bài-3)
@@ -65,487 +60,367 @@ Các lựa chọn đã được làm sẵn cho bạn.
 _Trong 20 Bài đầu sẽ chưa yêu cầu đọc, khoảng thời gian này việc đọc đối với mọi người thực sự rất thử thách._
 
 ### Ngày 1
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
 	- Ôn tập và làm bộ thẻ cho Unit 1, 2 
 		- [Unit 1](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=1).
 		- [Unit 2](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=2).
-- Ngữ pháp: [BÀI 1: PRESENT CONTINUOUS (I am doing)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-1-present-continuous-i-am-doing)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation 1](https://www.youtube.com/embed/m1-Bx3h4cio) - Các mẫu câu hỏi thăm cơ bản như "Hello", "How are you?" và tương tự.
 
 ### Ngày 2
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
 	- Ôn tập và làm bộ thẻ cho Unit 3, 4 
 		- [Unit 3](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=3)
 		- [Unit 4](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=4)
-- Ngữ pháp: [BÀI 2: SIMPLE PRESENT (I do)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-2-simple-present-i-do)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation 2](https://www.youtube.com/embed/4N9Y47aVTHM)
 
 ### Ngày 3
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
 	- Ôn tập và làm bộ thẻ cho Unit 5, 6 
 		- [Unit 5](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=5)
 		- [Unit 6](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=6)
-- Ngữ pháp: [BÀI 3: PRESENT CONTINUOUS (I am doing) hay SIMPLE PRESENT (I do)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-3-present-continuous-i-am-doing-hay-simple-present-i-do)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation 3](https://www.youtube.com/embed/5xMMgxgAgLk)
 
 ### Ngày 4
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 7](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=7)
 		- [Unit 8](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=8)
-- Ngữ pháp: [BÀI 4: PRESENT TENSES (I am doing/l do) với nghĩa tương lai](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-4-present-tenses-i-am-doingl-do-voi-nghia-tuong-lai)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation 4](https://www.youtube.com/embed/oBA6mrpJFBM)
 
 ### Ngày 5
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 9](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=9)
 		- [Unit 10](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=10)
-- Ngữ pháp: [BÀI 5: GOING TO (I am going to do)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-5-going-to-i-am-going-to-do)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation 5](https://www.youtube.com/embed/JYQir4QzIjA)
 
 
 ### Ngày 6
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 11](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=11)
 		- [Unit 12](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=12)
-- Ngữ pháp: [BÀI 6: SIMPLE FUTURE (will)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-6-simple-future-will)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation 6](https://www.youtube.com/embed/L5Eoq057OAM)
 
 ### Ngày 7
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 13](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=13)
 		- [Unit 14](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=14)
-- Ngữ pháp: [BÀI 7: SIMPLE FUTURE (will) (2)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-7-simple-future-will-2)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation 7](https://www.youtube.com/embed/X9C_yKy_qro)
 
 ### Ngày 8
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 15](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=15)
 		- [Unit 16](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=16)
 
 - Ngữ pháp: [BÀI 8: WILL hay GOING TO?](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-8-will-hay-going-to)
-- Đọc hiểu: 
 - Nghe hiểu: [English Conversation 8](https://www.youtube.com/embed/fmJDzyTQhbA)
 
 ### Ngày 9
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 17](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=17)
 		- [Unit 18](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=18)
-- Ngữ pháp: [BÀI 9: Các câu VỚI WHEN và IF](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-9-cac-cau-voi-when-va-if)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation 9](https://www.youtube.com/embed/h8XbayIhHjU)
 
 ### Ngày 10
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 19](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=19)
 		- [Unit 20](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=20)
-- Ngữ pháp: [BÀI 10: FUTURE CONTINUOUS (will be doing) và FUTURE PERFECT (will have done)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-10-future-continuous-will-be-doing-va-future-perfect-will-have-done)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation0](https://www.youtube.com/embed/wQLt1BuXk08)
 
 ### Ngày 11
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 21](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=21)
 		- [Unit 22](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=22)
-- Ngữ pháp: [BÀI 11: SIMPLE PAST (I did)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-11-simple-past-i-did)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation1](https://www.youtube.com/embed/qdcCe3NYQB8)
 
 ### Ngày 12
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 23](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=23)
 		- [Unit 24](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=24)
-- Ngữ pháp: [BÀI 12: PAST CONTINUOUS (thì Quá khứ tiếp diễn) (I was doing)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-12-past-continuous-thi-qua-khu-tiep-dien-i-was-doing)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation2](https://www.youtube.com/embed/DQBtlRv4SeA)
 
 ### Ngày 13
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 25](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=25)
 		- [Unit 26](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=26)
-- Ngữ pháp: [BÀI 13: PRESENT PERFECT (thì Hiện tại hoàn thành) (I have done) (1)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-13-present-perfect-thi-hien-tai-hoan-thanh-i-have-done-1)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation3](https://www.youtube.com/embed/1H9_coD7WhQ)
 
 ### Ngày 14
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 27](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=27)
 		- [Unit 28](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=28)
-- Ngữ pháp: [BÀI 14: PRESENT PERFECT (thì Hiện tại hoàn thành) (2)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-14-present-perfect-thi-hien-tai-hoan-thanh-2)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation4](https://www.youtube.com/embed/3PtdNEJwYFk)
 
 ### Ngày 15
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 29](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=29)
 		- [Unit 30](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=30)
-- Ngữ pháp: [BÀI 15: PRESENT PERFECT](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-15-present-perfect)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation5](https://www.youtube.com/embed/7cGTTWJgIVA)
 
 ### Ngày 16
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 31](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=31)
 		- [Unit 32](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=32)
-- Ngữ pháp: Ngữ pháp: [BÀI 15: PRESENT PERFECT](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-15-present-perfect)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation6](https://www.youtube.com/embed/qmza9S7A_2Q)
 
 ### Ngày 17
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 33](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=33)
 		- [Unit 34](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=34)
-- Ngữ pháp: [BÀI 17: PRESENT PERFECT CONTINUOUS (I have been doing) hay PRESENT PERFECT (I have done)?](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-17-present-perfect-continuous-i-have-been-doing-hay-present-perfect-i-have-done)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation7](https://www.youtube.com/embed/t9GuUGY-pNw)
 
 ### Ngày 18
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 35](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=35)
 		- [Unit 36](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=36)
-- Ngữ pháp: [BÀI 18: PRESENT PERFECT và PRESENT PERFECT CONTINUOUS với how long, for và since](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-18-present-perfect-va-present-perfect-continuous-voi-how-long-for-va-since)
+- Ngữ pháp: 
 - Đọc hiểu:  
 - Nghe hiểu: [English Conversation8](https://www.youtube.com/embed/De0OCxtCy_M)
 
 ### Ngày 19
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 37](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=37)
 		- [Unit 38](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=38)
-- Ngữ pháp: - [BÀI 19: PRESENT PERFECT với how long, và SIMPLE PAST với when, SINCE và FOR](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-19-present-perfect-voi-how-long-va-simple-past-voi-when-since-va-for)
-- Đọc hiểu: 
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/Y7DIw84LOEU)
 
 ### Ngày 20
 
 Time to learn how to read in English. (When reading on the web browser, you should probably have a pop-up dictionary extension)
 
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 39](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=39)
 		- [Unit 40](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=40)
-- Ngữ pháp: [BÀI 20: PRESENT PERFECT (I have done) hay SIMPLE PAST (I did) (1)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-20-present-perfect-i-have-done-hay-simple-past-i-did-1)
-- Đọc hiểu: [A good boy](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#a-good-boy)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/B3rWU6_FfyM)
 
 ### Ngày 21
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 41](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=41)
 		- [Unit 42](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=42)
-- Ngữ pháp: Bài 20 ở trên đã bao gồm nội dung cho bài 21.
-- Đọc hiểu: [A long life](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#a-long-life)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/NuUPJj_Z_q8)
 
 ### Ngày 22
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 43](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=43)
 		- [Unit 44](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=44)
-- Ngữ pháp: [Bài 22: PAST PERFECT (I had done)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-22-past-perfect-i-had-done)
-- Đọc hiểu: [Barking dog](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#barking-dog)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/gOPmS9IDKMo)
 
 ### Ngày 23
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 45](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=45)
 		- [Unit 46](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=46)
-- Ngữ pháp: [BÀI 23: PAST PERFECT CONTINUOUS (I had been doing)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-23-past-perfect-continuous-i-had-been-doing)
-- Đọc hiểu: [A lost pencil](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#a-lost-pencil)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/HIWvKfXQseU)
 
 ### Ngày 24
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 47](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=47)
 		- [Unit 48](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=48)
-- Ngữ pháp: [BÀI 24: HAVE và HAVE GOT](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-24-have-va-have-got)
-- Đọc hiểu: [A horse rider](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#a-horse-rider)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/Z-wRuUeqPUM)
 
 ### Ngày 25
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 49](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=49)
 		- [Unit 50](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=50)
-- Ngữ pháp: [BÀI 25: USED TO (I used to do)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-25-used-to-i-used-to-do)
-- Đọc hiểu: [YELLOW CORN](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#yellow-corn)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/a3vYNDhmvyg)
 
 ### Ngày 26
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 51](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=51)
 		- [Unit 52](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=52)
-- Ngữ pháp: [BÀI 26: CAN, COULD và BE ABLE TO](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-26-can-could-va-be-able-to)
-- Đọc hiểu: [ROW YOUR BOAT](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#row-your-boat)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/HT609Jtk7kE)
 
 ### Ngày 27
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 53](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=53)
 		- [Unit 54](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=54)
-- Ngữ pháp: [BÀI 27: COULD (could do và could have done)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-27-could-could-do-va-could-have-done)
-- Đọc hiểu: [THE JUMPER](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#the-jumper)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/Wl6GdXObW50)
 
 ### Ngày 28
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 55](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=55)
 		- [Unit 56](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=56)
-- Ngữ pháp: [BÀI 28: MUST và CAN'T](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-28-must-va-cant)
-- Đọc hiểu: [A RED BERRY](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#a-red-berry)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/qph458LxR9I)
 
 ### Ngày 29
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 57](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=57)
 		- [Unit 58](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=58)
-- Ngữ pháp: [BÀI 29: MAY và MIGHT](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-29-may-va-might)
-- Đọc hiểu: [CHOCOLATE MILK](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#chocolate-milk)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/nBuGascikBI)
 
 ### Ngày 30
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 59](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=59)
 		- [Unit 60](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=60)
-- Ngữ pháp: [BÀI 30: MAY và MIGHT (tương lai)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-30-may-va-might-tuong-lai)
-- Đọc hiểu: [GO TO WORK](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#go-to-work)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/WEoxeIxcQw0)
 
 ### Ngày 31
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 61](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=61)
 		- [Unit 62](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=62)
-- Ngữ pháp: [BÀI 31: CAN, COULD, MAY và WOULD: yêu cầu, cho phép, đề nghi và mời.](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-31-can-could-may-va-would-yeu-cau-cho-phep-e-nghi-va-moi)
-- Đọc hiểu: [FRESH FISH](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#fresh-fish)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/7827tPM4tSE)
 
 ### Ngày 32
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 63](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=63)
 		- [Unit 64](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=64)
-- Ngữ pháp: [BÀI 32: MUST và HAVE TO](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-32-must-va-have-to)
-- Đọc hiểu: [BUY A NEW CAR](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#buy-a-new-car)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/950u2yxDyxM)
 
 ### Ngày 33
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 65](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=65)
 		- [Unit 66](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=66)
-- Ngữ pháp: [BÀI 33: MUST, MUSTN'T, NEEDN'T và NEEDN'T HAVE](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-33-must-mustnt-neednt-va-neednt-have)
-- Đọc hiểu: [A THIN MAN](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#a-thin-man)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/JA4G9eTjnlo)
 
 ### Ngày 34
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 67](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=67)
 		- [Unit 68](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=68)
-- Ngữ pháp: [BÀI 34: SHOULD (1)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-34-should-1) (Đã bao gồm cả nội dung phần ngữ pháp bài 35)
-- Đọc hiểu: [A FUNNY STORY](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#a-funny-story)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/OhzNz7vh6YM)
 
 ### Ngày 35
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 69](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=69)
 		- [Unit 70](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=70)
-- Ngữ pháp: Ở trên bài 34
-- Đọc hiểu: [BUG IN A BOTTLE](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#bug-in-a-bottle)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/tSseSypkT1E)
 
 ### Ngày 36
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 71](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=71)
 		- [Unit 72](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=72)
-- Ngữ pháp: [BÀI 36: CONDITIONAL SENTENCES (Câu điều kiện) (Hiện tại; tương lai)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-36-conditional-sentences-cau-ieu-kien-hien-tai-tuong-lai)
-- Đọc hiểu: [CLEAN HANDS](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#clean-hands)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/vnkeWsnBw_w)
 
 ### Ngày 37
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 73](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=73)
 		- [Unit 74](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=74)
-- Ngữ pháp: [BÀI 37: Câu với IF và WISH (Hiện tại)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-37-cau-voi-if-va-wish-hien-tai)
-- Đọc hiểu: [WHO IS IT?](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#who-is-it)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/psmuEyZGHVs)
 
 ### Ngày 38
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 75](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=75)
 		- [Unit 76](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=76)
-- Ngữ pháp: [BÀI 38: Câu với IF và WISH (quá khứ)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-38-cau-voi-if-va-wish-qua-khu)
-- Đọc hiểu: [TRASH DAY](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#trash-day)
+- Ngữ pháp: 
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/vbSwmvyEQCI)
 
 ### Ngày 39
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 77](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=77)
 		- [Unit 78](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=78)
-- Ngữ pháp: [BÀI 39: WOULD](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-39-would)
+- Ngữ pháp: 
 - Đọc hiểu: [Thử thách 1 - Cuối phần Departures](https://www.newsinlevels.com/products/dogs-help-travelers-level-1/) - Không dài.
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/toCn9-9hXoY)
 
 ### Ngày 40
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- [Bài nghe hiểu đặc biệt cuối khóa]()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit 79](http://lopngoaingu.com/listening/streamline-english/Departure/index.php?id=79)
-		- [Bài đặc biệt]
-- Ngữ pháp: [BÀI 40: IN CASE (phòng khi)](https://daihocmo.github.io/tieng-anh/grammar-guide/#bai-40-in-case-phong-khi)
+		- [Bài đặc biệt]()
+- Ngữ pháp: 
 - Đọc hiểu: [Thử thách 2 - Cuối phần Departures](https://daihocmo.github.io/tu-luyen-tieng-anh/reading/path1.html#challenge)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/fLEmRt8yp4Q)
 
@@ -553,12 +428,7 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 
 ### Tài nguyên học
 
-#### Streamline
 
-- [Connections](http://www.mediafire.com/file/qwwpbdc9ibi36av/2st_Steamline+english+Connections.zip) - Tổng hợp toàn bộ sách dạng PDF và tệp âm thanh
-- [Danh sách bài nghe](https://www.youtube.com/playlist?list=PLC6055FEEE8C855BA) - Mình đã chia toàn bộ cho từng Bài ở bên dưới nên cứ đến Bài nào là bạn nghe thôi
-- [Sách online](http://lopngoaingu.com/listening/streamline-english/Connections/index.php) - Đọc trực tiếp cuốn này trên Lopngoaingu. Gợi ý nên tải tệp sách về
-- [Danh sách các bài đọc](./reading/path2.md)
 
 ### Lộ trình học
 - [Bài 41](#bài-41)
@@ -603,120 +473,86 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - [Bài 80](#bài-80)
 
 ### Ngày 41
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=41) trong English Grammar In Use.
-- Hội thoại: 
-    + [Streamline English Connections 01](https://www.youtube.com/watch?v=BngBp62iuuE)
-    + [Streamline English Connections 02](https://www.youtube.com/watch?v=COKcIZhFW34)
-- Đọc hiểu: 
+- Ngữ pháp: 
+- Đọc hiểu:
     + [First class travel – level 1](https://www.newsinlevels.com/products/first-class-travel-level-1/) 
     + [Europeans travel to US again – level 1](https://www.newsinlevels.com/products/europeans-travel-to-us-again-level-1/)
     + [An airport departures board ](https://learnenglish.britishcouncil.org/skills/reading/a1-reading/airport-departures-board)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/oQG2HcjVPw4)
 
 ### Ngày 42
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
-3, 4 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=3)
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=42) trong English Grammar In Use.
-- Hội thoại: 
-    + [Streamline English Connections 03](https://www.youtube.com/watch?v=Z92cpyULckk)
-    + [Streamline English Connections 04](https://www.youtube.com/watch?v=Du6GvIagec0)
-- Đọc hiểu: 
+- Ngữ pháp: 
+- Đọc hiểu:
     + [A phone charges in 9 minutes – level 1](https://www.newsinlevels.com/products/a-phone-charges-in-9-minutes-level-1/) 
     + [iPhone sales go down – level 1](https://www.newsinlevels.com/products/iphone-sales-go-down-level-1/) 
     + [A phone which you can open – level 1](https://www.newsinlevels.com/products/a-phone-which-you-can-open-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/ObnRbOKX_ow)
 
 ### Ngày 43
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
-5, 6 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=5)
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=43) trong English Grammar In Use.
-- Hội thoại: 
-    + [Streamline English Connections 05](https://www.youtube.com/watch?v=7yXRcrwGpjk)
-    + [Streamline English Connections 06](https://www.youtube.com/watch?v=YMoYOOBpRIg)
 - Đọc hiểu:
     + [Business cards](https://learnenglish.britishcouncil.org/skills/reading/a1-reading/business-cards)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/YyunvnkpsXg)
 
 ### Ngày 44
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
-7, 8 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=7)
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=44) trong English Grammar In Use.
-- Hội thoại: 
-    + [Streamline English Connections 07](https://www.youtube.com/watch?v=kCRqKzwWhyw)
-    + Bài 8 bị thiếu trên Youtube, bạn tải tệp âm thanh ở bài đăng chính về. Đường dẫn sẽ được cập nhật sau.
-- Đọc hiểu: 
+- Ngữ pháp:
+- Đọc hiểu:
     + [Brush your teeth](https://www.rong-chang.com/ne/es/es001.htm)
     + [Watch a DVD](https://www.rong-chang.com/ne/es/es003.htm)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/nEb_Pjj5euM)
 
 ### Ngày 45
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
-9, 10 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=9)
-- Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=45) trong English Grammar In Use.
+- Ngữ pháp:
 - Hội thoại: 
     + [Streamline English Connections 09](https://www.youtube.com/watch?v=wY9Y7hK7rRg)
     + [Streamline English Connections 10](https://www.youtube.com/watch?v=cL7LL3iRuzI)
-- Đọc hiểu: 
     + [Get Dressed](https://www.rong-chang.com/ne/es/es004.htm)
     + [Shave Your Face](https://www.rong-chang.com/ne/es/es014.htm)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/Y70v58AvTps)
 
 
 ### Ngày 46
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
-11, 12 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=11)
 - Ngữ pháp: Học bài [này](http://lopngoaingu.com/grammar-in-use/index.php?page=46) trong English Grammar In Use.
 - Hội thoại: 
     + [Streamline English Connections 11](https://www.youtube.com/watch?v=dJNHzmC7VPo)
     + [Streamline English Connections 12](https://www.youtube.com/watch?v=JWKX4FyEfqw)
-- Đọc hiểu: 
     + [He forgot again](https://www.rong-chang.com/ne/es/es019.htm)
     + [A Cup Of Coffee](https://www.rong-chang.com/nse/se/nse171.htm)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/q_RUiGH3B6w)
 
 ### Ngày 47
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 13, 14 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=13)
@@ -724,16 +560,13 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Hội thoại: 
     + [Streamline English Connections 13](https://www.youtube.com/watch?v=kJRaBq-uXO8)
     + [Streamline English Connections 14](https://www.youtube.com/watch?v=z74EDuQQprQ)
-- Đọc hiểu: 
     + [30 Year Late](https://www.rong-chang.com/ne/es/es010.htm)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/G5LJOC-22-Y)
 
 ### Ngày 48
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 15, 16 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=15)
@@ -748,11 +581,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/OVLfQbv8IGw)
 
 ### Ngày 49
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 17, 18 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=17)
@@ -766,11 +597,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/3t9_3oIOxAE)
 
 ### Ngày 50
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 19, 20 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=19)
@@ -778,17 +607,14 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Hội thoại: 
     + [Streamline English Connections 19](https://www.youtube.com/watch?v=yqKx3YizEAE)
     + [Streamline English Connections 20](https://www.youtube.com/watch?v=lLysVmTxUuM) 
-- Đọc hiểu: 
     + [The taste of insects – level 1](https://www.newsinlevels.com/products/the-taste-of-insects-level-1/)
     + [The future of a steak – level 1](https://www.newsinlevels.com/products/the-future-of-a-steak-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/sC2DvHvK_p0)
 
 ### Ngày 51
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 21, 22 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=21)
@@ -796,16 +622,13 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Hội thoại: 
     + [Streamline English Connections 21](https://www.youtube.com/watch?v=il9oLubXK4k)
     + [Streamline English Connections 22](https://www.youtube.com/watch?v=h8MeC55Vmug)
-- Đọc hiểu: 
     + [Fly Away](https://www.rong-chang.com/nse/se/nse021.htm)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/yRge_YANbUQ)
 
 ### Ngày 52
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 23, 24 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=23)
@@ -813,17 +636,14 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Hội thoại: 
     + [Streamline English Connections 23](https://www.youtube.com/watch?v=fR5YmzNH9Dc) 
     + Chưa có bài 24
-- Đọc hiểu: 
     + [Space elevator – level 1](https://www.newsinlevels.com/products/space-elevator-level-1/)
     + [China makes cheap green products – level 1](https://www.newsinlevels.com/products/china-makes-cheap-green-products-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/4o7YMe3zLtQ)
 
 ### Ngày 53
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 25, 26 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=25)
@@ -837,11 +657,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/9CvW-7vBvKI)
 
 ### Ngày 54
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 27, 28 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=27)
@@ -849,17 +667,14 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Hội thoại: 
     + [Streamline English Connections 27](https://www.youtube.com/watch?v=XkzZ9CB8rt0) 
     + [Streamline English Connections 28](https://www.youtube.com/watch?v=RnLspprBs8Y) 
-- Đọc hiểu: 
     + [How Video Calling Started – level 1](https://www.newsinlevels.com/products/how-video-calling-started-level-1/)
     + [Google’s First Phone – level 1](https://www.newsinlevels.com/products/google-s-first-phone-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/yj0Yfr2vV5k)
 
 ### Ngày 55
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 29, 30 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=29)
@@ -867,17 +682,14 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Hội thoại: 
     + [Streamline English Connections 29](https://www.youtube.com/watch?v=qgc5AWQlwLA)
     + [Streamline English Connections 30](https://www.youtube.com/watch?v=_-QgJ1HTB0Q) 
-- Đọc hiểu: 
 + [Dogs in Japanese offices – level 1](https://www.newsinlevels.com/products/dogs-in-japanese-offices-level-1/)
 + [Britain’s Post Office scandal – level 1](https://www.newsinlevels.com/products/britains-post-office-scandal-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/5vyAGyeJgts)
 
 ### Ngày 56
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 31, 32 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=31)
@@ -885,17 +697,14 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Hội thoại: 
     + [Streamline English Connections 31](https://www.youtube.com/watch?v=cLwfnAtU3Sg)
     + [Streamline English Connections 32](https://www.youtube.com/watch?v=u_1ig2Cm2MU)
-- Đọc hiểu: 
     + [Asthma from Traffic – level 1](https://www.newsinlevels.com/products/asthma-from-traffic-level-1/)
     + [Koala Stops the Traffic – level 1](https://www.newsinlevels.com/products/koala-stops-the-traffic-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/N44z11tsO3M)
 
 ### Ngày 57
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 33, 34 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=33)
@@ -903,18 +712,15 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Hội thoại: 
     + [Streamline English Connections 33](https://www.youtube.com/watch?v=DaYYWSP3QRU) 
     + [Streamline English Connections 34](https://www.youtube.com/watch?v=G0YmnLFrE-A)
-- Đọc hiểu: 
     + [Western Australia Storm – level 1](https://www.newsinlevels.com/products/western-australia-storm-level-1/)
     + [Man on Sydney Opera House – level 1](https://www.newsinlevels.com/products/man-on-sydney-opera-house-level-1/)
     + [Cat is sold with a house – level 1](https://www.newsinlevels.com/products/cat-is-sold-with-a-house-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/Hc-BClOPdRU)
 
 ### Ngày 58
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 35, 36 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=35)
@@ -922,17 +728,14 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Hội thoại: 
     + [Streamline English Connections 35](https://www.youtube.com/watch?v=Q-FBQ2YYJnA)
     + [Streamline English Connections 36](https://www.youtube.com/watch?v=whvy9RAVgtI) 
-- Đọc hiểu: 
     + [A woman spends 14 hours on top of her car – level 1](https://www.newsinlevels.com/products/a-woman-spends-14-hours-on-top-of-her-car-level-1/)
     + [Why people in Sweden do not smoke – level 1](https://www.newsinlevels.com/products/why-people-in-sweden-do-not-smoke-level-1/)
 - Nghe hiểu: [????](https://youtu.be/dzA7nL6cicY)
 
 ### Ngày 59
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 37, 38 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=37)
@@ -940,7 +743,6 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Hội thoại: 
     + [Streamline English Connections 37](https://www.youtube.com/watch?v=r74Fa_nreHs) 
     + [Streamline English Connections 38](https://www.youtube.com/watch?v=pShwy9QhHV4)
-- Đọc hiểu: 
     + [Ramadan ends – level 1](https://www.newsinlevels.com/products/ramadan-ends-level-1/)
     + [Unlimited vacation – level 1](https://www.newsinlevels.com/products/unlimited-vacation-level-1/)
 - Nghe hiểu: 
@@ -948,11 +750,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
     + [Travel](https://youtu.be/W-eJIgTrBTo)
 
 ### Ngày 60
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 39, 40 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=39)
@@ -964,11 +764,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [Making Suggestion is easy](https://youtu.be/S7532uo3Z3Y)
 
 ### Ngày 61
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 41, 42 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=41)
@@ -980,11 +778,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [English Conversation](https://youtu.be/M380ySm1vOk?list=PLhPfBpTj6VpS0Ph5TmDIXODyCM6jAq4EC)
 
 ### Ngày 62
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 43, 44 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=43)
@@ -996,11 +792,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [English Conversation](https://youtu.be/tqTJAXfzD0E?list=PLhPfBpTj6VpS0Ph5TmDIXODyCM6jAq4EC)
 
 ### Ngày 63
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 45, 46 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=45)
@@ -1012,11 +806,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [Can I help you?](https://youtu.be/h7pIYycJRqE)
 
 ### Ngày 64
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 47, 48 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=47)
@@ -1028,11 +820,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [English Conversation](https://youtu.be/6x5k1A8kbo0)
 
 ### Ngày 65
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 49, 50 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=49)
@@ -1044,11 +834,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [Asking for Direction](https://youtu.be/DPYJQSA-x50)
 
 ### Ngày 66
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 51, 52 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=51)
@@ -1060,11 +848,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/HIWJli9_KPo)
 
 ### Ngày 67
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 53, 54 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=53)
@@ -1076,11 +862,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/17G5S5VWbN8)
 
 ### Ngày 68
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 55, 56 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=55)
@@ -1092,11 +876,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/Rrer3W_xHsk)
 
 ### Ngày 69
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 57, 58 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=57)
@@ -1108,11 +890,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/wOAVm7HQmbM)
 
 ### Ngày 70
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 59, 60 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=59)
@@ -1124,11 +904,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/2pYMd2biAmw)
 
 ### Ngày 71
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 61, 62 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=61)
@@ -1140,11 +918,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/GqHFI-JgINc)
 
 ### Ngày 72
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 63, 64 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=63)
@@ -1156,11 +932,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/VfroauyBtuQ)
 
 ### Ngày 73
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 65, 66 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=65)
@@ -1172,11 +946,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/S0IYnGRCcMw)
 
 ### Ngày 74
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 67, 68 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=67)
@@ -1186,11 +958,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/-07xzQCaSyg)
 
 ### Ngày 75
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 69, 70 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=69)
@@ -1202,11 +972,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/5rzGRvx63n4)
 
 ### Ngày 76
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 71, 72 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=71)
@@ -1214,17 +982,14 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Hội thoại: 
     + [Streamline English Connections 71](https://www.youtube.com/watch?v=YfpVWYWRMs0)
     + Thiếu 72
-- Đọc hiểu: 
     + [Native Americans win in North Dakota – level 1](https://www.newsinlevels.com/products/native-americans-win-in-north-dakota-level-1/)
     + [A ship in trouble – level 1](https://www.newsinlevels.com/products/a-ship-in-trouble-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/8z-GQ9VOjLI)
 
 ### Ngày 77
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 73, 74 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=73)
@@ -1232,17 +997,14 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Hội thoại: 
     + [Streamline English Connections 73](https://www.youtube.com/watch?v=h3bnDojBm1c)
     + [Streamline English Connections 74](https://www.youtube.com/watch?v=5TLZUOc3MA0)
-- Đọc hiểu: 
     + [Killer's Message](https://www.newsinlevels.com/products/killers-message-level-1/)
     + [Murderer climbs over prison walls – level 1](https://www.newsinlevels.com/products/murderer-climbs-over-prison-walls-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/A9XOzBk3PxQ)
 
 ### Ngày 78
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 75, 76 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=75).
@@ -1250,17 +1012,14 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Hội thoại: 
     + [Streamline English Connections 75](https://www.youtube.com/watch?v=luR0j8G29MM)
     + [Streamline English Connections 76](https://www.youtube.com/watch?v=j_lOCZ8kotM) 
-- Đọc hiểu: 
     + [Genetic tests – level 1](https://www.newsinlevels.com/products/genetic-tests-level-1/)
     + [First sustainable fuel flight – level 1](https://www.newsinlevels.com/products/first-sustainable-fuel-flight-level-1)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/k8imxcuOnJk)
 
 ### Ngày 79
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 77, 78 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=77)
@@ -1268,17 +1027,14 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Hội thoại: 
     + [Streamline English Connections 77](https://www.youtube.com/watch?v=d_NANvUyVKA) 
     + Thiếu bài 78 trên Youtube.
-- Đọc hiểu: 
     + [Supermarkets go green](https://www.newsinlevels.com/products/supermarkets-go-green-level-1/)  
     + [A Robotic Hand at Supermarkets](https://www.newsinlevels.com/products/a-robotic-hand-at-supermarkets-level-1/)
 - Nghe hiểu: [English Conversation](https://www.youtube.com/embed/8_c0YgLOcdo)
 
 ### Ngày 80
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 79, 80 [tại đây](http://lopngoaingu.com/listening/streamline-english/Connections/index.php?id=79)
@@ -1299,7 +1055,7 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 
 #### Streamline
 
-- [Tải giáo trình Destinations](http://www.mediafire.com/file/s10dpa5eggddc14/3rd_Steamline+english+Destinations.zip) - Tổng hợp toàn bộ sách dạng PDF và tệp âm thanh
+- [Tải giáo trình Destinations](http://www.mediafire.com/file/s10dpa5eggddc14/3rd_Steamline+english+Destinations.zip)
 - [Danh sách bài nghe](https://www.youtube.com/playlist?list=PLF26D0BB50072C4B5) - Mình đã chia toàn bộ cho từng Bài ở bên dưới nên cứ đến Bài nào là bạn nghe thôi. Gợi ý nên tải toàn bộ CD ở đường dẫn trên.
 - [Sách online](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php) - Đọc trực tiếp cuốn này trên Lopngoaingu. Gợi ý nên tải tệp sách về
 - [Danh sách các bài đọc](./reading/path3.md)
@@ -1356,11 +1112,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 **Nội dung tiêu thụ gợi ý đang trong quá trình làm, mọi người có thể tự tìm thông qua khu tài nguyên của lộ trình ở trang đầu, hoặc ở bài đăng trên Voz nha.**
 
 ### Ngày 81
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 1, 2 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=1).
@@ -1369,11 +1123,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 82
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 3, 4 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=3).
@@ -1382,11 +1134,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 83
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 5, 6 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=5).
@@ -1395,11 +1145,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 84
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 7, 8 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=7).
@@ -1408,11 +1156,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 85
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 9, 10 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=9).
@@ -1421,11 +1167,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 86
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 11, 12 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=11).
@@ -1434,11 +1178,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 87
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 13, 14 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=13).
@@ -1447,11 +1189,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 88
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 15, 16 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=15).
@@ -1460,11 +1200,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 89
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 17, 18 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=17).
@@ -1473,11 +1211,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 90
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 19, 20 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=19).
@@ -1486,11 +1222,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 91
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 21, 22 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=21).
@@ -1499,11 +1233,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 92
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 23, 24 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=23).
@@ -1512,11 +1244,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 93
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 25, 26 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=25).
@@ -1525,11 +1255,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 94
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 27, 28 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=27).
@@ -1538,11 +1266,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 95
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 29, 30 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=29).
@@ -1551,11 +1277,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 96
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 31, 32 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=31).
@@ -1564,11 +1288,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 97
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 33, 34 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=33).
@@ -1577,11 +1299,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 98
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 35, 36 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=35).
@@ -1590,11 +1310,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 99
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 37, 38 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=37).
@@ -1603,11 +1321,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 100
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 39, 40 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=39).
@@ -1616,11 +1332,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 101
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 41, 42 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=41).
@@ -1629,11 +1343,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 102
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 43, 44 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=43).
@@ -1642,11 +1354,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 103
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 45, 46 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=45).
@@ -1655,11 +1365,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 104
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 47, 48 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=47).
@@ -1668,11 +1376,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 105
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 49, 50 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=49).
@@ -1681,11 +1387,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 106
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 51, 52 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=51).
@@ -1694,11 +1398,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 107
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 53, 54 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=53).
@@ -1707,11 +1409,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 108
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 55, 56 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=55).
@@ -1720,11 +1420,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 109
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 57, 58 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=57).
@@ -1733,11 +1431,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 110
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 59, 60 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=59).
@@ -1746,11 +1442,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 111
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 61, 62 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=61).
@@ -1759,11 +1453,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 112
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 63, 64 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=63).
@@ -1772,11 +1464,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 113
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 65, 66 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=65).
@@ -1785,11 +1475,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 114
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 67, 68 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=67).
@@ -1798,11 +1486,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 115
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 69, 70 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=69).
@@ -1811,11 +1497,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 116
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 71, 72 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=71).
@@ -1824,11 +1508,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 117
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 73, 74 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=73).
@@ -1837,11 +1519,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 118
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 75, 76 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=75).
@@ -1850,11 +1530,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 119
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 77, 78 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=77).
@@ -1863,11 +1541,9 @@ Time to learn how to read in English. (When reading on the web browser, you shou
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 120
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 79 [tại đây](http://lopngoaingu.com/listening/streamline-english/Destinations/index.php?id=79).
@@ -1885,7 +1561,7 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 
 #### Streamline
 
-- [Sách và Audio cuốn Connections](http://www.mediafire.com/file/qwwpbdc9ibi36av/2st_Steamline+english+Connections.zip) - Tổng hợp toàn bộ sách dạng PDF và tệp âm thanh
+- [Sách và Audio cuốn Connections](http://www.mediafire.com/file/qwwpbdc9ibi36av/2st_Steamline+english+Connections.zip)
 - [Sách online](http://lopngoaingu.com/listening/streamline-english/Directions/index.php) - Đọc trực tiếp cuốn này trên Lopngoaingu. Gợi ý nên tải tệp sách và Audio về.
 
 ### Lộ trình học
@@ -1932,11 +1608,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - [Bài 160](#bài-160)
  
 ### Ngày 121
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 1, 2 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=1).
@@ -1945,11 +1619,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 122
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 3, 4 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=3).
@@ -1958,11 +1630,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 123
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 5, 6 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=5).
@@ -1971,11 +1641,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 124
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 7, 8 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=7).
@@ -1984,11 +1652,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 125
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 9, 10 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=9).
@@ -1997,11 +1663,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 126
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 11, 12 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=11).
@@ -2010,11 +1674,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 127
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 13, 14 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=13).
@@ -2023,11 +1685,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 128
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 15, 16 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=15).
@@ -2036,11 +1696,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 129
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 17, 18 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=17).
@@ -2049,11 +1707,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 130
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 19, 20 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=19).
@@ -2064,11 +1720,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 
 
 ### Ngày 131
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 21, 22 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=21).
@@ -2076,11 +1730,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 132
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 23, 24 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=23).
@@ -2088,11 +1740,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 133
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 25, 26 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=25).
@@ -2100,11 +1750,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 134
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 27, 28 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=27).
@@ -2112,11 +1760,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 135
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 29, 30 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=29).
@@ -2124,11 +1770,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 136
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 31, 32 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=31).
@@ -2136,11 +1780,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 137
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 33, 34 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=33).
@@ -2148,11 +1790,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 138
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 35, 36 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=35).
@@ -2160,11 +1800,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 139
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 37, 38 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=37).
@@ -2172,11 +1810,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 140
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 39, 40 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=39).
@@ -2184,11 +1820,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 141
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 41, 42 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=41).
@@ -2196,11 +1830,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 142
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 43, 44 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=43).
@@ -2208,11 +1840,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 143
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 45, 46 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=45).
@@ -2220,11 +1850,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 144
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 47, 48 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=47).
@@ -2232,11 +1860,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 145
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 49, 50 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=49).
@@ -2244,11 +1870,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 146
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 51, 52 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=51).
@@ -2256,11 +1880,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 147
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 53, 54 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=53).
@@ -2268,11 +1890,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 148
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 55, 56 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=55).
@@ -2280,11 +1900,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 149
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 57, 58 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=57).
@@ -2292,11 +1910,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 150
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 59, 60 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=59).
@@ -2304,11 +1920,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 151
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 61, 62 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=61).
@@ -2316,11 +1930,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 152
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 63, 64 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=63).
@@ -2328,11 +1940,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 153
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 65, 66 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=65).
@@ -2340,11 +1950,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 154
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 67, 68 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=67).
@@ -2352,11 +1960,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 155
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 69, 70 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=69).
@@ -2364,11 +1970,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 156
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 71, 72 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=71).
@@ -2376,11 +1980,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 157
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 73, 74 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=73).
@@ -2388,11 +1990,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 158
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 75, 76 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=75).
@@ -2400,11 +2000,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 159
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 77, 78 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=77).
@@ -2412,11 +2010,9 @@ Chạy nước rút! Sắp hoàn thành chương trình rồi!
 - Gợi ý nội dung Tiếng Anh để tiêu thụ: Đang trong quá trình
 
 ### Ngày 160
-- Bài giảng (Mẫu câu, từ vựng, đọc hiểu): 
-	- Bài giảng:
-		- []()
-		- []()
-	- Ôn tập và làm bộ thẻ cho Unit 
+- Bài học trong Streamline (Mẫu câu, từ vựng, đọc hiểu): 
+	- Học Unit 
+	- Ôn tập và làm bộ thẻ cho Unit: 
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 		- [Unit ](http://lopngoaingu.com/listening/streamline-english/)
 79 [tại đây](http://lopngoaingu.com/listening/streamline-english/Directions/index.php?id=79).
