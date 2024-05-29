@@ -2,9 +2,7 @@ Bắt đầu học Giai đoạn 1 - cuốn Departures (Streamline English)
 
 ### Lưu ý
 
-- Ở phần "Hội thoại", mình sẽ để đường dẫn đến các bài nghe trên Youtube, vậy nên bạn hoàn toàn có thể nghe trực tiếp nếu bạn đã tải cả sách và tệp âm thanh ở bài gốc.
-- Ở phần từ vựng, đường dẫn sẽ đến bài đầu tiên cần học, ví dụ như Bài 1 cần học Unit 1 và Unit 2 thì đường dẫn sẽ đến bài tại Unit 1, và bạn cần tự chuyển bài sang Unit 2 sau khi học xong Unit 1.
-- Các đường dẫn sẽ được điền ngay tại đây cho bạn, nếu bạn tự tải các giáo trình về thì bạn chỉ cần tự tìm tên bài tương ứng.
+Các lựa chọn đã được làm sẵn cho bạn. 
 
 ### Tài nguyên học
 
