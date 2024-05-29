@@ -45,13 +45,13 @@ Bạn sẽ học từ vựng hàng ngày khoảng 20 từ vựng thông qua [Ank
 
 Lưu ý là sau 150 ngày bạn vẫn phải ôn tập thường xuyên trên Anki để đưa từ vựng vào bộ nhớ dài hạn. 
 
-Bắt đầu ngay bằng cách tải xuống (Bấm vào chữ Anki ở trên) và xem hướng dẫn Tiếng Việt của Đạt Nguyễn [tại đây](https://youtu.be/M9-qwsHyBrc) (Hướng dẫn tuy khá cũ nhưng về cơ bản nó cũng không khác quá nhiều).
+Bắt đầu ngay bằng cách tải xuống (Bấm vào chữ Anki ở trên).
 
 Việc học cách sử dụng Anki là BẮT BUỘC. Rất nhiều người đã bỏ dùng Anki dù nó rất hiệu quả trong việc cải thiện ghi nhớ vì thấy nó khó dùng. 
 
 Một điều BẮT BUỘC khác là phải sử dụng hàng ngày, không được mất quá một ngày vì như thế sẽ ảnh hưởng đến khả năng nhớ từ dài hạn.
 
-Thẻ ở đây cần tự làm, bạn cần tự thêm sau mỗi bài học. Bạn hãy thêm các từ vựng mình đã học trong ngày vào duy nhất một Deck (Bộ thẻ) trong Anki. Hướng dẫn cách làm [tại đây]().
+Thẻ ở đây cần tự làm, bạn cần tự thêm sau mỗi bài học. Bạn hãy thêm các từ vựng mình đã học trong ngày vào duy nhất một Deck (Bộ thẻ) trong Anki. Hướng dẫn cách làm [tại đây](https://youtu.be/Om_1NECh8sQ).
 
 Tại sao cần tự làm thẻ thay vì sử dụng một bộ thẻ làm sẵn? Bởi vì việc làm thẻ cũng là lúc bạn sử dụng lại những từ vựng bạn đã học trong ngày, đưa thẻ từ vựng đó vào Anki (Phần mềm sẽ lo cho bạn mọi thứ còn lại). Nó sẽ giúp bạn ÔN TẬP.
 
