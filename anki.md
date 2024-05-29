@@ -20,13 +20,13 @@ _Preview_
 
 (Cái này thực ra có màu nhưng mà tui lỡ chụp màn hình lúc để màn hình đen trắng, mà lười sửa lắm nên thôi =D)
 
-_Preview_
+**Preview (Mang tính chất minh họa thiệt)**
 
 **Mặt trước**
 
-![](./assets/3k-front.webp)
+![](./assets/front.webp)
 
 **Mặt sau**
 
-![](./assets/3k-back.webp)
+![](./assets/back.webp)
 
