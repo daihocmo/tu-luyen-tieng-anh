@@ -1,19 +1,48 @@
 # Lộ trình tự học Tiếng Anh từ đầu trong 160 ngày.
 
-## Thông báo
+## Mục lục
 
+0. [Tài nguyên](#resources)
+	- [Tài liệu học trong lộ trình](tài-liệu-học-trong-lộ-trình)
+	- [Tài nguyên đọc](#reading)
+	- [Tài nguyên nghe](#listening)
+	- [Tổng hợp](#nội-dung-khác)
 1. [Phần 1: Departures](#departures)
 2. [Phần 2: Connections](#connections)
 3. [Phần 3: Destinations](#destinations)
 4. [Phần 4: Directions](#directions)
 
-### Tải toàn bộ giáo trình
+
+## Resources
+Tài nguyên cho việc nạp Comprehensible English trong mỗi bài học (Tự chọn).
+
+### Tài liệu học trong lộ trình
 
 - [Giáo trình và Audio cuốn Departures](http://www.mediafire.com/file/f07ana7t24d90h1/1st_Steamline+english+Departures.zip)
 - [Giáo trình và Audio cuốn Connections](http://www.mediafire.com/file/qwwpbdc9ibi36av/2st_Steamline+english+Connections.zip)
 - [Giáo trình và Audio cuốn Destinations](http://www.mediafire.com/file/s10dpa5eggddc14/3rd_Steamline+english+Destinations.zip)
 - [Giáo trình và Audio cuốn Directions](http://www.mediafire.com/file/wdu97gw7bc1bu33/4th_Steamline+english+Directions.zip)
+- [Sách Essential Grammar In Use](https://archive.org/download/EssentialGrammarInUse4thEditionByR.Murphy/Essential%20Grammar%20in%20Use%204th%20Edition%20by%20R.%20Murphy.pdf)
 
+### Listening
+- [Very Simple and Easy Comprehensible Input](https://www.youtube.com/playlist?list=PLqE81DRO-TpEWRe-O9HuuATMxRuF6qrVx)
+- [Simple and Easy Comprehensible Input](https://www.youtube.com/playlist?list=PLqE81DRO-TpEdaIQaWdMgDjNHihgC56nl)
+- [EasyEnglish](https://www.youtube.com/channel/UCTRHegh7UqWuKRymXoqzbzA): "Tiếng Anh dễ" nhưng không dễ, vì tốc độ hội thoại và nói trong đây không quá chậm cũng không quá nhanh. Nội dung đa dạng với không khó tiếp thu. Làm video dưới dạng hội thoại và hoạt hình.
+- [Culips Podcast](http://esl.culips.com/) - Luyện nghe các cuộc hội thoại Tiếng Anh hàng ngày.
+- [6 Minute English](http://www.bbc.co.uk/programmes/p02pc9tn/episodes/downloads) - Học thông qua các bài nói ngắn trong 6 phút của BBC, giọng Anh Anh.
+
+### Reading
+
+- [A1 Reading bởi British Council](https://learnenglish.britishcouncil.org/skills/reading/a1-reading): Đây là danh sách các bài học rất cơ bản cho người ở trình độ A1 (Mức thấp nhất)
+- [Rongchang NSE](https://www.rong-chang.com/nse/): Đây là một trang tổng hợp các bài đọc rất ngắn bằng Tiếng Anh, nhưng từ vựng cũng không quá dễ đối với trình độ A1. Bạn có thể thử sau khi xong phần đọc trên ^^.
+- [Oxford Graded Readers Site](http://www.oxfordgradedreaders.es/) - Một trang bao gồm các câu truyện hoặc văn bản không quá dài cho những người học.
+- [VOA Learning English](https://learningenglish.voanews.com/) - Không hẳn là một trang Graded Reading nhưng là những bài báo dành cho người học với khối lượng từ vựng khá cao.
+- [NewsInLevel](https://www.newsinlevels.com/) - Bạn có thể đọc các bảng tin bằng Tiếng Anh được chia cấp độ này (Có cả nghe nữa!).
+
+### Nội dung khác
+- [Khu tài nguyên chính của Daihocmo](https://daihocmo.github.io/tieng-anh/resources/)
+- [Danh sách các kênh Youtube hay bằng Tiếng Anh](https://daihocmo.github.io/tieng-anh/youtube/)
+- [Danh sách các cộng đồng học Tiếng Anh trên Discord](https://daihocmo.github.io/tieng-anh/cong-dong/)
 
 ## Departures
 
