@@ -3,7 +3,7 @@
 ## Mục lục
 
 0. [Tài nguyên](#resources)
-	- [Tài liệu học trong lộ trình](tài-liệu-học-trong-lộ-trình)
+	- [Tài liệu học trong lộ trình](#tài-liệu-học-trong-lộ-trình)
 	- [Tài nguyên đọc](#reading)
 	- [Tài nguyên nghe](#listening)
 	- [Tổng hợp](#nội-dung-khác)
