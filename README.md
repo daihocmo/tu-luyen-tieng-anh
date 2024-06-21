@@ -1,3 +1,10 @@
+**CẬP NHẬT:** Lộ trình học "tu luyện Tiếng Anh" đã HOÀN THÀNH, và sắp tới sẽ không có hoặc có rất ít những cập nhật và thay đổi. Nếu nhìn nhận một cách khách quan mà nói, phần cơ bản của ngôn ngữ sẽ không bao giờ lỗi thời và nó vẫn sẽ luôn ở đó.
+
+THIS PROJECT IS DONE!
+
+
+BẮT ĐẦU THAM GIA HỌC:
+
 Tham gia Discord Server [tại đây](https://discord.gg/fbHbQSwzpD).
 
 Hướng dẫn học Tiếng Anh từ con số 0 cho người mất gốc, người không biết gì, nhưng không phải cho người lười.
@@ -133,9 +140,6 @@ Tổng hợp toàn bộ các tài nguyên luyện nghe hiểu và đọc hiểu 
 - [VOA Learning English](https://learningenglish.voanews.com/) - Không hẳn là một trang Graded Reading nhưng là những bài báo dành cho người học với khối lượng từ vựng khá cao.
 - [NewsInLevel](https://www.newsinlevels.com/) - Bạn có thể đọc các bảng tin bằng Tiếng Anh được chia cấp độ này (Có cả nghe nữa!).
 
-#### Tài nguyên khác hỗ trợ cho việc học
-
-Đang cập nhật.....
 
 ### Tiếp bước
 
