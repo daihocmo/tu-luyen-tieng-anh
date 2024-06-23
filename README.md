@@ -1,3 +1,6 @@
+# Lộ trình tự học Tiếng Anh từ con số 0 lên B1 hoàn toàn miễn phí cho người mất gốc.
+
+
 **CẬP NHẬT:** Lộ trình học "tu luyện Tiếng Anh" đã HOÀN THÀNH, và sắp tới sẽ không có hoặc có rất ít những cập nhật và thay đổi. Nếu nhìn nhận một cách khách quan mà nói, phần cơ bản của ngôn ngữ sẽ không bao giờ lỗi thời và nó vẫn sẽ luôn ở đó.
 
 THIS PROJECT IS DONE!
