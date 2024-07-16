@@ -1813,3 +1813,17 @@ Vì giờ chúng ta đã học xong ngữ pháp nên thời lượng nội dung 
 - Đọc hiểu: Đọc 4 bài đọc ngắn bất kì
 - Nghe hiểu: Tiêu thụ ít nhất 1 giờ nội dung Tiếng Anh bất kì
 
+## Đại sảnh danh vọng
+
+Đây là mục mình mới thêm (Sẽ không có trong Mục lục ở trên). Bạn chỉ có thể thấy được phần này khi bạn đã hoàn thành hết 160 ngày hoặc kéo đến hết trang này.
+
+Nếu bạn đã hoàn thành chương trình, bạn thực sự đã xây dựng được một thói quen học Tiếng Anh tốt, dù có thể bạn đã học quá 160 ngày, hay có những ngày bỏ, bận nên không học hoặc dành thời gian cho những điều và những người quan trọng, nhưng bạn vẫn quay lại đây và hoàn thành hết chương trình. 
+
+Tất nhiên, việc hoàn thành chương trình không ĐỒNG NGHĨA với việc bạn sẽ GIỎI TIẾNG ANH ngay lập tức. Bạn cần tiếp xúc nhiều hơn với các nội dung Tiếng Anh, bất kì điều gì.
+
+Tiêu thụ thêm nội dung Tiếng Anh, xem Youtube, lướt Reddit, đọc báo, sách hay bất kì điều gì khác, đó chính là chìa khóa để Tiếng Anh của bạn có thể được cải thiện.
+
+Nếu bạn đang thắc mắc định hướng tiếp tục, hãy thử dành thời gian đọc [Lộ trình "How to learn English" của Antimoon](https://www.antimoon.com/how/howtolearn.htm) được viết 100% bằng Tiếng Anh. Đây là một lộ trình tuy đã cũ nhưng mình thấy nội dung trong đây vẫn có thể được áp dụng bây giờ. 
+
+Chúc bạn tiến bước và thành công đạt được mục tiêu học Tiếng Anh của mình!
+
