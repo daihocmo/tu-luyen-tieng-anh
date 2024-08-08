@@ -28,7 +28,7 @@ Hướng dẫn học Tiếng Anh từ con số 0 cho người mất gốc, ngư�
 
 Chương trình học này sẽ sử dụng 
 
-- Phần từ vừng + mẫu câu + hội thoại: giáo trình [Streamline English](). 
+- Phần từ vừng + mẫu câu + hội thoại: giáo trình Streamline English. 
 - Phần ngữ pháp: [Essential Grammar In Use](https://archive.org/download/EssentialGrammarInUse4thEditionByR.Murphy/Essential%20Grammar%20in%20Use%204th%20Edition%20by%20R.%20Murphy.pdf)
 - Phần nghe hiểu: Bài nghe trên Youtube. 
 
@@ -41,6 +41,8 @@ Trong giai đoạn mới học, ít nhất cho đến khi đạt B2, thì việc
 Bạn hoàn toàn có thể làm vậy, nhưng phải chắc chắn rằng những câu bạn nói đều là những câu bạn đã ĐỌC và NGHE nhiều lần từ người bản xứ nên nó sẽ CHẮC CHẮN ĐÚNG về mặt ngữ pháp lẫn ngữ nghĩa.
 
 Chương trình này không tốn của bạn một xu, bạn chỉ cần có kỉ luật, cam kết học hàng ngày và dành nhiều thời gian cho nó. Chúc bạn học tập thật tốt!
+
+Bạn có thể chỉ cần đọc phần [Từ vựng và mẫu câu](#từ-vựng-và-mẫu-câu) và bắt đầu học luôn tại: **[Hướng dẫn tự học trong 160 ngày cho từng ngày một](lo-trinh.md)**.
 
 ### Từ vựng và Mẫu câu
 
@@ -111,8 +113,9 @@ Hoặc sử dụng từ điển ngoại tuyến như Goldendict, khu tài nguyê
 Một yêu cầu nhỏ nữa là, cấm được làm bài tập ngữ pháp, lý do đơn giản là mục đích của việc học ngữ pháp chi để bổ trợ cho quá trình nghe hiểu và đọc hiểu. Và khi mình hiểu ngữ pháp và đồng thời nghe càng nhiều đọc càng nhiều các nội dung nhỉnh hơn Level của mình một chút (Comprehensible Input) thì mình càng lên trình nhanh và khả năng sử dụng ngoại ngữ sẽ tốt hơn những người ráp công thức.
 
 ## Tự học hàng ngày
+**[Hướng dẫn tự học trong 160 ngày cho từng ngày một](lo-trinh.md)**
 
-Để theo lộ trình này, bạn hãy kiểm tra lộ trình hàng ngày mà mình đã viết sẵn [ở đây](lo-trinh.md). Các lựa chọn đã được làm sẵn cho bạn và việc duy nhất bạn cần làm là thực hiện thói quen học tập hàng ngày.
+Để theo lộ trình này, bạn hãy kiểm tra lộ trình hàng ngày mà mình đã viết ở trên. Các lựa chọn đã được làm sẵn cho bạn và việc duy nhất bạn cần làm là thực hiện thói quen học tập hàng ngày.
 
 Chương trình này có thể không phù hợp với tất cả mọi người và được viết hoàn toàn bởi góc nhìn và cách hiểu cá nhân mình. Vậy nên, nếu có bất kì góp ý nào, đừng ngại bình luận ở trong Thread chính của lộ trình trong Voz Forum.
 
