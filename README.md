@@ -58,11 +58,11 @@ Một điều BẮT BUỘC khác là phải sử dụng hàng ngày, không đư
 
 Thẻ ở đây cần tự làm, bạn cần tự thêm sau mỗi bài học. Bạn hãy thêm các từ vựng mình đã học trong ngày vào duy nhất một Deck (Bộ thẻ) trong Anki. Hướng dẫn cách làm [tại đây](https://youtu.be/Om_1NECh8sQ) - Đây là hướng dẫn mình tự làm, xin lỗi vì nó hơi ồn nha ;-;
 
-Các bác tải bộ thẻ Template cần để hỗ trợ tự tạo thẻ [ở đây nha](). Xem ở video ở trên của mình để biết thêm chi tiết cách tự tạo thẻ.
+Các bác tải [bộ thẻ Template để hỗ trợ tự tạo thẻ bằng cách bấm vào đường dẫn này](https://daihocmo.github.io/tu-luyen-tieng-anh/assets/template.apkg). Xem ở video ở trên của mình để biết thêm chi tiết cách tự tạo thẻ.
 
 Tại sao cần tự làm thẻ thay vì sử dụng một bộ thẻ làm sẵn? Bởi vì việc làm thẻ cũng là lúc bạn sử dụng lại những từ vựng bạn đã học trong ngày, đưa thẻ từ vựng đó vào Anki (Phần mềm sẽ lo cho bạn mọi thứ còn lại). Nó sẽ giúp bạn ÔN TẬP.
 
-(Mặc dù vậy nhưng nếu bạn muốn tải bộ thẻ Anki 3000 từ vựng được làm sẵn thì [bấm vào đây để tải](./anki.md))
+Mặc dù vậy nhưng nếu bạn muốn tải bộ thẻ Anki 1700 từ vựng được làm sẵn thì [bấm vào đây để tải](https://drive.proton.me/urls/ZBJY7V642G#AceOkJtjWRnW) - Tính đến hiện tại thì bản dịch câu là dùng Google Dịch nhưng vẫn có âm thanh cho cả từ vựng và câu.
 
 ### Ngữ pháp
 
@@ -113,6 +113,7 @@ Hoặc sử dụng từ điển ngoại tuyến như Goldendict, khu tài nguyê
 Một yêu cầu nhỏ nữa là, cấm được làm bài tập ngữ pháp, lý do đơn giản là mục đích của việc học ngữ pháp chi để bổ trợ cho quá trình nghe hiểu và đọc hiểu. Và khi mình hiểu ngữ pháp và đồng thời nghe càng nhiều đọc càng nhiều các nội dung nhỉnh hơn Level của mình một chút (Comprehensible Input) thì mình càng lên trình nhanh và khả năng sử dụng ngoại ngữ sẽ tốt hơn những người ráp công thức.
 
 ## Tự học hàng ngày
+
 **[Hướng dẫn tự học trong 160 ngày cho từng ngày một](lo-trinh.md)**
 
 Để theo lộ trình này, bạn hãy kiểm tra lộ trình hàng ngày mà mình đã viết ở trên. Các lựa chọn đã được làm sẵn cho bạn và việc duy nhất bạn cần làm là thực hiện thói quen học tập hàng ngày.
