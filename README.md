@@ -1,6 +1,16 @@
 # Lộ trình tự học Tiếng Anh từ con số 0 lên B1 hoàn toàn miễn phí cho người mất gốc.
 
-**CẬP NHẬT:** Lộ trình học "tu luyện Tiếng Anh" đã HOÀN THÀNH, và sắp tới sẽ không có hoặc có rất ít những cập nhật và thay đổi. Nếu nhìn nhận một cách khách quan mà nói, phần cơ bản của ngôn ngữ sẽ không bao giờ lỗi thời và nó vẫn sẽ luôn ở đó.
+
+> [!WARNING]  
+> Hiện tại trang [Lớp ngoại ngữ]() đã ngừng hoạt động và bạn sẽ không thể truy cập được các bài học trên trang. Bạn có thể đọc trên sách Streamline và sử dụng Audio trên Youtube hoặc các tệp Audio có thể tải về mà mình để đường dẫn ở bên dưới 
+
+Khi bạn mở trang Lớp ngoại ngữ thì trang sẽ trông như này.
+
+![](lop-ngoai-ngu.png)
+
+**CẬP NHẬT:** 
+
+Lộ trình học "tu luyện Tiếng Anh" đã HOÀN THÀNH, và sắp tới sẽ không có hoặc có rất ít những cập nhật và thay đổi. Nếu nhìn nhận một cách khách quan mà nói, phần cơ bản của ngôn ngữ sẽ không bao giờ lỗi thời và nó vẫn sẽ luôn ở đó.
 
 ## Cộng đồng
 Tham gia kênh "Tự luyện Tiếng Anh" trên Discord bằng cách bấm vào đường dẫn [tại đây](https://discord.gg/fbHbQSwzpD).
