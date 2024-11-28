@@ -1,25 +1,26 @@
 # Lộ trình tự học Tiếng Anh cho người mất gốc
 
 
-> [!IMPORTANT]
-> Lộ trình tự học Tiếng Anh từ đầu cho người bắt đầu hoặc mất gốc
-> Đọc lộ trình tại [30 Ngày Tiếng Anh](https://daihocmo.github.io/tieng-anh/30ngay/)
+## Lộ trình 30 ngày 
+Lộ trình tự học Tiếng Anh từ đầu cho người bắt đầu hoặc mất gốc.
 
-> [!WARNING]  
-> Lộ trình 160 ngày sẽ không còn nhận được cập nhật và được xóa khỏi trang chủ. 
->
-> Bạn vẫn có thể đọc lộ trình 160 ngày tại: [Hướng dẫn tự học trong 160 ngày cho từng ngày một](archive/main-guide.md)
+Đọc lộ trình tại [30 Ngày Tiếng Anh](https://daihocmo.github.io/tieng-anh/30ngay/)
+
+## Lộ trình 160 ngày
+Lộ trình 160 ngày sẽ không còn nhận được cập nhật và được xóa khỏi trang chủ. 
+
+Bạn vẫn có thể đọc lộ trình 160 ngày tại: [Hướng dẫn tự học trong 160 ngày cho từng ngày một](archive/main-guide.md)
 
 ## Giới thiệu
 Học Tiếng Anh thông qua Comprehensible Input và Immersion. 
 
-> [!NOTE]  
-> [Đọc toàn bộ hướng dẫn học Tiếng Anh](https://daihocmo.github.io/tieng-anh)
+[Đọc toàn bộ hướng dẫn học Tiếng Anh](https://daihocmo.github.io/tieng-anh)
 
 ## Cộng đồng
 
-> [!NOTE]  
-> [Tham gia kênh "Tự luyện Tiếng Anh" trên Discord](https://discord.gg/fbHbQSwzpD).
+[Tham gia kênh "Tự luyện Tiếng Anh" trên Discord](https://discord.gg/fbHbQSwzpD).
+
+![https://discord.gg/fbHbQSwzpD](./assets/discord.png)
 
 ## Comprehensible English 
 
