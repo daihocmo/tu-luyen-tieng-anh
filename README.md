@@ -1,7 +1,7 @@
 # Lộ trình tự học Tiếng Anh cho người mất gốc
 
 
-> [!INFO]
+> [!IMPORTANT]
 > Lộ trình tự học Tiếng Anh từ đầu cho người bắt đầu hoặc mất gốc
 > Đọc lộ trình tại [30 Ngày Tiếng Anh](https://daihocmo.github.io/tieng-anh/30ngay/)
 
@@ -13,11 +13,13 @@
 ## Giới thiệu
 Học Tiếng Anh thông qua Comprehensible Input và Immersion. 
 
-[<kbd> <br> Đọc toàn bộ hướng dẫn học Tiếng Anh <br> </kbd>][https://daihocmo.github.io/tieng-anh/]
+> [!NOTE]  
+> [Đọc toàn bộ hướng dẫn học Tiếng Anh](https://daihocmo.github.io/tieng-anh)
 
 ## Cộng đồng
 
-[Tham gia kênh "Tự luyện Tiếng Anh" trên Discord](https://discord.gg/fbHbQSwzpD).
+> [!NOTE]  
+> [Tham gia kênh "Tự luyện Tiếng Anh" trên Discord](https://discord.gg/fbHbQSwzpD).
 
 ## Comprehensible English 
 
